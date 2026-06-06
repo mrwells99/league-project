@@ -8,7 +8,7 @@ Usage:
     python3 scrape_onetricks.py
 """
 
-import requests
+from curl_cffi import requests
 import json
 import re
 import time
@@ -54,7 +54,7 @@ SEASON_KEY = "S2026_1"
 def scrape_champion(champion: str) -> dict:
     url = f"https://www.onetricks.gg/champions/ranking/{champion}"
     try:
-        r = requests.get(url, headers=HEADERS, timeout=15)
+        r = requests.get(url, headers=HEADERS, timeout=15, impersonate="chrome")
         r.raise_for_status()
 
         match = re.search(r'<script id="__NEXT_DATA__"[^>]*>(.*?)</script>', r.text, re.DOTALL)
