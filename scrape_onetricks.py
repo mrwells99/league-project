@@ -62,7 +62,9 @@ def scrape_champion(champion: str) -> dict:
             raise ValueError("__NEXT_DATA__ not found")
 
         data = json.loads(match.group(1))
-        mains = data["props"]["pageProps"]["rankings"][SEASON_KEY]["mainsData"]
+        mains_all = data["props"]["pageProps"]["rankings"][SEASON_KEY]["mainsData"]
+        MAJOR_REGIONS = {"KR", "EUW1", "NA1"}
+        mains = [p for p in mains_all if p.get("region") in MAJOR_REGIONS and p.get("playrate", 0) >= 60]
 
         challenger  = sum(1 for p in mains if p.get("tier") == "Challenger")
         grandmaster = sum(1 for p in mains if p.get("tier") == "Grandmaster")
