@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-06T03:17:30.410730Z",
+  "scraped_at": "2026-06-06T04:02:11.827479Z",
   "season": "S2026_1",
   "total_champions": 170,
   "champions": [
@@ -210,22 +210,6 @@
       "master": 57,
       "total": 70,
       "url": "https://www.onetricks.gg/champions/ranking/Hecarim"
-    },
-    {
-      "champion": "Zilean",
-      "challenger": 2,
-      "grandmaster": 3,
-      "master": 61,
-      "total": 66,
-      "url": "https://www.onetricks.gg/champions/ranking/Zilean"
-    },
-    {
-      "champion": "Akali",
-      "challenger": 1,
-      "grandmaster": 5,
-      "master": 59,
-      "total": 65,
-      "url": "https://www.onetricks.gg/champions/ranking/Akali"
     },
     {
       "champion": "Urgot",
@@ -458,14 +442,6 @@
       "master": 41,
       "total": 47,
       "url": "https://www.onetricks.gg/champions/ranking/Draven"
-    },
-    {
-      "champion": "Elise",
-      "challenger": 0,
-      "grandmaster": 2,
-      "master": 45,
-      "total": 47,
-      "url": "https://www.onetricks.gg/champions/ranking/Elise"
     },
     {
       "champion": "Jhin",
@@ -860,14 +836,6 @@
       "url": "https://www.onetricks.gg/champions/ranking/Jinx"
     },
     {
-      "champion": "Neeko",
-      "challenger": 0,
-      "grandmaster": 2,
-      "master": 23,
-      "total": 25,
-      "url": "https://www.onetricks.gg/champions/ranking/Neeko"
-    },
-    {
       "champion": "Renekton",
       "challenger": 0,
       "grandmaster": 2,
@@ -1228,14 +1196,6 @@
       "url": "https://www.onetricks.gg/champions/ranking/Lillia"
     },
     {
-      "champion": "Nilah",
-      "challenger": 0,
-      "grandmaster": 0,
-      "master": 11,
-      "total": 11,
-      "url": "https://www.onetricks.gg/champions/ranking/Nilah"
-    },
-    {
       "champion": "Varus",
       "challenger": 0,
       "grandmaster": 1,
@@ -1258,14 +1218,6 @@
       "master": 9,
       "total": 9,
       "url": "https://www.onetricks.gg/champions/ranking/Morgana"
-    },
-    {
-      "champion": "Rammus",
-      "challenger": 0,
-      "grandmaster": 0,
-      "master": 9,
-      "total": 9,
-      "url": "https://www.onetricks.gg/champions/ranking/Rammus"
     },
     {
       "champion": "Amumu",
@@ -1324,20 +1276,20 @@
       "url": "https://www.onetricks.gg/champions/ranking/Mel"
     },
     {
-      "champion": "Corki",
-      "challenger": 0,
-      "grandmaster": 0,
-      "master": 2,
-      "total": 2,
-      "url": "https://www.onetricks.gg/champions/ranking/Corki"
-    },
-    {
       "champion": "Braum",
       "challenger": 0,
       "grandmaster": 0,
       "master": 2,
       "total": 2,
       "url": "https://www.onetricks.gg/champions/ranking/Braum"
+    },
+    {
+      "champion": "Corki",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 2,
+      "total": 2,
+      "url": "https://www.onetricks.gg/champions/ranking/Corki"
     },
     {
       "champion": "Malphite",
@@ -1356,13 +1308,67 @@
       "url": "https://www.onetricks.gg/champions/ranking/Renata"
     },
     {
+      "champion": "Akali",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Akali",
+      "error": "Failed to perform, curl: (28) Operation timed out after 15001 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Elise",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Elise",
+      "error": "Failed to perform, curl: (28) Operation timed out after 15001 milliseconds with 2 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Neeko",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Neeko",
+      "error": "Failed to perform, curl: (28) Operation timed out after 15000 milliseconds with 16948 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Nilah",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Nilah",
+      "error": "Failed to perform, curl: (28) Operation timed out after 15000 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Rammus",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Rammus",
+      "error": "Failed to perform, curl: (28) Operation timed out after 15001 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
       "champion": "Wukong",
       "challenger": 0,
       "grandmaster": 0,
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Wukong",
-      "error": "404 Client Error: Not Found for url: https://www.onetricks.gg/champions/ranking/Wukong"
+      "error": "HTTP Error 404: "
+    },
+    {
+      "champion": "Zilean",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Zilean",
+      "error": "Failed to perform, curl: (28) Operation timed out after 15000 milliseconds with 11700 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     }
   ]
 }
