@@ -98,11 +98,9 @@ def main():
     print(f"Scraping onetricks.gg for {len(CHAMPIONS)} champions...\n")
     results = []
 
-    with ThreadPoolExecutor(max_workers=4) as executor:
-        futures = {executor.submit(scrape_champion, c): c for c in CHAMPIONS}
-        for future in as_completed(futures):
-            results.append(future.result())
-            time.sleep(0.2)
+    for champion in CHAMPIONS:
+        results.append(scrape_champion(champion))
+        time.sleep(3)
 
     results.sort(key=lambda x: x["total"], reverse=True)
 
