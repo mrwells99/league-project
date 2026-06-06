@@ -1,0 +1,598 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>OTP Rankings — onetricks.gg Dashboard</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;900&family=Rajdhani:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --gold:    #c89b3c;
+    --gold2:   #f0e6d3;
+    --gold3:   #785a28;
+    --blue:    #0bc4e3;
+    --blue2:   #0596aa;
+    --chall:   #00b8e6;
+    --gm:      #9acd32;
+    --master:  #9b59b6;
+    --bg:      #0a0b0e;
+    --bg2:     #0f1117;
+    --bg3:     #161a22;
+    --bg4:     #1c2130;
+    --border:  #1e2535;
+    --text:    #c8aa6e;
+    --text2:   #a0956e;
+    --text3:   #5c5033;
+  }
+
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 15px;
+    min-height: 100vh;
+    background-image:
+      radial-gradient(ellipse 80% 40% at 50% 0%, rgba(12, 196, 227, 0.05) 0%, transparent 60%),
+      url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23c89b3c' fill-opacity='0.03'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+  }
+
+  /* ─── HEADER ─── */
+  header {
+    text-align: center;
+    padding: 56px 24px 32px;
+    position: relative;
+  }
+  header::after {
+    content: '';
+    display: block;
+    width: 400px;
+    max-width: 80%;
+    height: 1px;
+    background: linear-gradient(90deg, transparent, var(--gold3), var(--gold), var(--gold3), transparent);
+    margin: 24px auto 0;
+  }
+  .logo-line {
+    font-family: 'Cinzel', serif;
+    font-size: clamp(28px, 5vw, 52px);
+    font-weight: 900;
+    letter-spacing: 0.12em;
+    color: var(--gold2);
+    text-shadow: 0 0 40px rgba(200,155,60,0.35), 0 2px 4px rgba(0,0,0,0.8);
+    line-height: 1;
+  }
+  .logo-line span { color: var(--blue); }
+  .subtitle {
+    margin-top: 10px;
+    font-size: 13px;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+    color: var(--text3);
+  }
+
+  /* ─── STATS BAR ─── */
+  .stats-bar {
+    display: flex;
+    justify-content: center;
+    gap: 48px;
+    flex-wrap: wrap;
+    padding: 24px;
+    margin: 0 auto 8px;
+    max-width: 1200px;
+  }
+  .stat-block { text-align: center; }
+  .stat-num {
+    font-family: 'Cinzel', serif;
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 1;
+  }
+  .stat-num.c { color: var(--chall); }
+  .stat-num.g { color: var(--gm); }
+  .stat-num.m { color: var(--master); }
+  .stat-num.t { color: var(--gold); }
+  .stat-label {
+    font-size: 10px;
+    letter-spacing: 0.25em;
+    text-transform: uppercase;
+    color: var(--text3);
+    margin-top: 4px;
+  }
+
+  /* ─── CONTROLS ─── */
+  .controls {
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto 20px;
+    padding: 0 24px;
+  }
+
+  .search-wrap {
+    position: relative;
+    flex: 1;
+    min-width: 200px;
+    max-width: 320px;
+  }
+  .search-wrap svg {
+    position: absolute;
+    left: 12px;
+    top: 50%;
+    transform: translateY(-50%);
+    opacity: 0.4;
+    pointer-events: none;
+  }
+  input[type="text"] {
+    width: 100%;
+    background: var(--bg3);
+    border: 1px solid var(--border);
+    color: var(--text);
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 14px;
+    padding: 9px 14px 9px 36px;
+    outline: none;
+    transition: border-color 0.2s;
+  }
+  input[type="text"]:focus { border-color: var(--gold3); }
+  input[type="text"]::placeholder { color: var(--text3); }
+
+  .btn-group { display: flex; gap: 6px; }
+  .filter-btn {
+    background: var(--bg3);
+    border: 1px solid var(--border);
+    color: var(--text2);
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: 600;
+    font-size: 12px;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    padding: 8px 16px;
+    cursor: pointer;
+    transition: all 0.15s;
+  }
+  .filter-btn:hover { border-color: var(--gold3); color: var(--gold); }
+  .filter-btn.active { background: var(--bg4); border-color: var(--gold); color: var(--gold); }
+  .filter-btn.chall.active { border-color: var(--chall); color: var(--chall); }
+  .filter-btn.gm.active    { border-color: var(--gm);    color: var(--gm); }
+
+  select {
+    background: var(--bg3);
+    border: 1px solid var(--border);
+    color: var(--text);
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 13px;
+    padding: 9px 14px;
+    cursor: pointer;
+    outline: none;
+  }
+  select:focus { border-color: var(--gold3); }
+
+  /* ─── TABLE ─── */
+  .table-wrap {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 24px 60px;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  thead th {
+    font-family: 'Cinzel', serif;
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--text3);
+    padding: 12px 16px;
+    text-align: left;
+    border-bottom: 1px solid var(--border);
+    cursor: pointer;
+    user-select: none;
+    white-space: nowrap;
+    transition: color 0.15s;
+    position: sticky;
+    top: 0;
+    background: var(--bg);
+    z-index: 10;
+  }
+  thead th:hover { color: var(--gold); }
+  thead th.sorted { color: var(--gold); }
+  thead th .sort-arrow { margin-left: 5px; opacity: 0.6; }
+
+  tbody tr {
+    border-bottom: 1px solid rgba(30,37,53,0.6);
+    transition: background 0.12s;
+  }
+  tbody tr:hover { background: var(--bg3); }
+  tbody tr.top3 td:first-child { border-left: 2px solid var(--gold3); }
+
+  td {
+    padding: 11px 16px;
+    vertical-align: middle;
+  }
+
+  .rank-cell {
+    font-family: 'Cinzel', serif;
+    font-size: 13px;
+    color: var(--text3);
+    width: 48px;
+  }
+  .rank-cell.gold1 { color: #ffd700; }
+  .rank-cell.gold2 { color: #c0c0c0; }
+  .rank-cell.gold3 { color: #cd7f32; }
+
+  .champ-cell {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    min-width: 160px;
+  }
+  .champ-icon {
+    width: 36px;
+    height: 36px;
+    border-radius: 4px;
+    object-fit: cover;
+    border: 1px solid var(--bg4);
+    background: var(--bg4);
+    flex-shrink: 0;
+  }
+  .champ-icon.placeholder {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 11px;
+    color: var(--text3);
+    font-family: 'Cinzel', serif;
+    letter-spacing: 0;
+  }
+  .champ-name {
+    font-family: 'Cinzel', serif;
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--gold2);
+    text-decoration: none;
+    transition: color 0.15s;
+  }
+  .champ-name:hover { color: var(--blue); }
+
+  .num { font-size: 16px; font-weight: 700; font-variant-numeric: tabular-nums; }
+  .num.c { color: var(--chall); }
+  .num.g { color: var(--gm); }
+  .num.m { color: var(--master); }
+  .num.t { color: var(--gold); font-family: 'Cinzel', serif; }
+
+  /* ─── BAR ─── */
+  .bar-cell { width: 180px; }
+  .bar-bg {
+    height: 6px;
+    background: var(--bg4);
+    border-radius: 3px;
+    overflow: hidden;
+    position: relative;
+  }
+  .bar-chall, .bar-gm, .bar-master {
+    height: 100%;
+    display: inline-block;
+    float: left;
+  }
+  .bar-chall  { background: var(--chall); }
+  .bar-gm     { background: var(--gm); }
+  .bar-master { background: var(--master); }
+
+  /* ─── LOADING / EMPTY ─── */
+  .loading {
+    text-align: center;
+    padding: 80px 24px;
+    color: var(--text3);
+    font-family: 'Cinzel', serif;
+    letter-spacing: 0.2em;
+    font-size: 14px;
+  }
+  .loading .spinner {
+    width: 40px;
+    height: 40px;
+    border: 2px solid var(--bg4);
+    border-top-color: var(--gold);
+    border-radius: 50%;
+    animation: spin 0.8s linear infinite;
+    margin: 0 auto 20px;
+  }
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  .empty {
+    text-align: center;
+    padding: 60px;
+    color: var(--text3);
+    font-family: 'Cinzel', serif;
+    letter-spacing: 0.15em;
+    font-size: 13px;
+  }
+
+  /* ─── FOOTER ─── */
+  footer {
+    text-align: center;
+    padding: 24px;
+    font-size: 11px;
+    letter-spacing: 0.2em;
+    color: var(--text3);
+    border-top: 1px solid var(--border);
+  }
+  footer a { color: var(--text3); text-decoration: none; }
+  footer a:hover { color: var(--gold3); }
+
+  /* ─── INLINE DATA BANNER ─── */
+  .data-banner {
+    background: rgba(200,155,60,0.06);
+    border: 1px solid var(--gold3);
+    border-left: 3px solid var(--gold);
+    padding: 12px 20px;
+    margin: 0 auto 24px;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 24px;
+    padding-right: 24px;
+    font-size: 13px;
+    color: var(--text2);
+    display: none;
+  }
+  .data-banner b { color: var(--gold); }
+
+  @media (max-width: 700px) {
+    .bar-cell, .stat-block:nth-child(4) { display: none; }
+    td, th { padding: 10px 10px; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="logo-line">OTP <span>RANKINGS</span></div>
+  <div class="subtitle">Challenger &amp; Grandmaster One-Trick Stats — onetricks.gg</div>
+</header>
+
+<div class="stats-bar" id="statsBar" style="display:none">
+  <div class="stat-block">
+    <div class="stat-num t" id="statTotal">—</div>
+    <div class="stat-label">Total OTPs</div>
+  </div>
+  <div class="stat-block">
+    <div class="stat-num c" id="statChall">—</div>
+    <div class="stat-label">Challenger</div>
+  </div>
+  <div class="stat-block">
+    <div class="stat-num g" id="statGM">—</div>
+    <div class="stat-label">Grandmaster</div>
+  </div>
+  <div class="stat-block">
+    <div class="stat-num m" id="statMaster">—</div>
+    <div class="stat-label">Master</div>
+  </div>
+  <div class="stat-block">
+    <div class="stat-num t" id="statChamps">—</div>
+    <div class="stat-label">Champions</div>
+  </div>
+</div>
+
+<div class="data-banner" id="dataBanner">
+  Data last scraped: <b id="scrapeDate">—</b> &nbsp;·&nbsp;
+  Run <code>python3 scrape_onetricks.py</code> to refresh. Data sourced from
+  <a href="https://onetricks.gg" target="_blank">onetricks.gg</a>
+</div>
+
+<div class="controls">
+  <div class="search-wrap">
+    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+      <circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>
+    </svg>
+    <input type="text" id="search" placeholder="Search champion..." />
+  </div>
+
+  <div class="btn-group">
+    <button class="filter-btn active" data-rank="all">All</button>
+    <button class="filter-btn chall" data-rank="challenger">Challenger</button>
+    <button class="filter-btn gm" data-rank="grandmaster">Grandmaster</button>
+  </div>
+
+  <select id="sortSelect">
+    <option value="total">Sort: Total OTPs</option>
+    <option value="challenger">Sort: Challenger</option>
+    <option value="grandmaster">Sort: Grandmaster</option>
+    <option value="master">Sort: Master</option>
+    <option value="champion">Sort: Name A–Z</option>
+  </select>
+</div>
+
+<div class="table-wrap">
+  <div class="loading" id="loading">
+    <div class="spinner"></div>
+    Loading champion_data.json…
+  </div>
+
+  <table id="mainTable" style="display:none">
+    <thead>
+      <tr>
+        <th data-col="rank">#</th>
+        <th data-col="champion">Champion</th>
+        <th data-col="challenger" class="sorted">Challenger ▾</th>
+        <th data-col="grandmaster">Grandmaster</th>
+        <th data-col="master">Master</th>
+        <th data-col="total">Total</th>
+        <th class="bar-cell">Distribution</th>
+      </tr>
+    </thead>
+    <tbody id="tbody"></tbody>
+  </table>
+
+  <div class="empty" id="empty" style="display:none">No champions found.</div>
+</div>
+
+<footer>
+  Data sourced from <a href="https://onetricks.gg" target="_blank">onetricks.gg</a> &nbsp;·&nbsp;
+  Not affiliated with Riot Games &nbsp;·&nbsp;
+  Refresh by re-running <code>scrape_onetricks.py</code>
+</footer>
+
+<script>
+const DDragon = (name) =>
+  `https://ddragon.leagueoflegends.com/cdn/15.1.1/img/champion/${name}.png`;
+
+let allData = [];
+let sortCol = 'total';
+let sortDir = -1; // -1 = desc
+let activeRank = 'all';
+let searchQ = '';
+
+// ── Load JSON ──────────────────────────────────────────────
+async function loadData() {
+  try {
+    const res = await fetch('./champion_data.json');
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const json = await res.json();
+    allData = json.champions || [];
+
+    // Update global stats
+    const totals = allData.reduce((a, c) => ({
+      total: a.total + c.total,
+      challenger: a.challenger + c.challenger,
+      grandmaster: a.grandmaster + c.grandmaster,
+      master: a.master + c.master,
+    }), { total: 0, challenger: 0, grandmaster: 0, master: 0 });
+
+    document.getElementById('statTotal').textContent = totals.total.toLocaleString();
+    document.getElementById('statChall').textContent = totals.challenger.toLocaleString();
+    document.getElementById('statGM').textContent = totals.grandmaster.toLocaleString();
+    document.getElementById('statMaster').textContent = totals.master.toLocaleString();
+    document.getElementById('statChamps').textContent = allData.length;
+    document.getElementById('statsBar').style.display = 'flex';
+
+    if (json.scraped_at) {
+      const d = new Date(json.scraped_at);
+      document.getElementById('scrapeDate').textContent = d.toLocaleString();
+      document.getElementById('dataBanner').style.display = 'block';
+    }
+
+    document.getElementById('loading').style.display = 'none';
+    document.getElementById('mainTable').style.display = 'table';
+    render();
+  } catch (e) {
+    document.getElementById('loading').innerHTML = `
+      <div style="color:#c0392b;font-family:'Cinzel',serif;letter-spacing:.15em">
+        Could not load champion_data.json<br>
+        <small style="font-size:12px;color:#5c5033;margin-top:8px;display:block">
+          Run python3 scrape_onetricks.py first, then serve this folder locally.<br>
+          e.g. <code>python3 -m http.server 8080</code>
+        </small>
+      </div>`;
+  }
+}
+
+// ── Render ────────────────────────────────────────────────
+function render() {
+  let data = [...allData];
+
+  // Filter by rank (only show if they have at least 1 at that rank)
+  if (activeRank === 'challenger') data = data.filter(c => c.challenger > 0);
+  if (activeRank === 'grandmaster') data = data.filter(c => c.grandmaster > 0);
+
+  // Search
+  if (searchQ) {
+    data = data.filter(c => c.champion.toLowerCase().includes(searchQ));
+  }
+
+  // Sort
+  data.sort((a, b) => {
+    if (sortCol === 'champion') return sortDir * a.champion.localeCompare(b.champion);
+    return sortDir * ((b[sortCol] || 0) - (a[sortCol] || 0));
+  });
+
+  const maxTotal = Math.max(...data.map(c => c.total), 1);
+  const tbody = document.getElementById('tbody');
+
+  if (data.length === 0) {
+    document.getElementById('mainTable').style.display = 'none';
+    document.getElementById('empty').style.display = 'block';
+    return;
+  }
+  document.getElementById('mainTable').style.display = 'table';
+  document.getElementById('empty').style.display = 'none';
+
+  tbody.innerHTML = data.map((c, i) => {
+    const pChall  = c.total ? (c.challenger  / c.total * 100).toFixed(1) : 0;
+    const pGM     = c.total ? (c.grandmaster / c.total * 100).toFixed(1) : 0;
+    const pMaster = c.total ? (c.master      / c.total * 100).toFixed(1) : 0;
+    const rankClass = i === 0 ? 'gold1' : i === 1 ? 'gold2' : i === 2 ? 'gold3' : '';
+    const rowClass  = i < 3 ? 'top3' : '';
+
+    return `
+      <tr class="${rowClass}">
+        <td class="rank-cell ${rankClass}">${i + 1}</td>
+        <td>
+          <div class="champ-cell">
+            <img class="champ-icon"
+              src="${DDragon(c.champion)}"
+              onerror="this.style.display='none'"
+              alt="${c.champion}" loading="lazy" />
+            <a class="champ-name"
+              href="https://onetricks.gg/champions/ranking/${c.champion}"
+              target="_blank">${c.champion}</a>
+          </div>
+        </td>
+        <td><span class="num c">${c.challenger}</span></td>
+        <td><span class="num g">${c.grandmaster}</span></td>
+        <td><span class="num m">${c.master}</span></td>
+        <td><span class="num t">${c.total}</span></td>
+        <td class="bar-cell">
+          <div class="bar-bg" title="C:${pChall}%  GM:${pGM}%  M:${pMaster}%">
+            <span class="bar-chall"  style="width:${pChall}%"></span>
+            <span class="bar-gm"     style="width:${pGM}%"></span>
+            <span class="bar-master" style="width:${pMaster}%"></span>
+          </div>
+        </td>
+      </tr>`;
+  }).join('');
+}
+
+// ── Events ────────────────────────────────────────────────
+document.querySelectorAll('thead th[data-col]').forEach(th => {
+  th.addEventListener('click', () => {
+    const col = th.dataset.col;
+    if (col === 'rank') return;
+    if (sortCol === col) { sortDir *= -1; }
+    else { sortCol = col; sortDir = -1; }
+    document.querySelectorAll('thead th').forEach(t => t.classList.remove('sorted'));
+    th.classList.add('sorted');
+    th.querySelector('.sort-arrow') && (th.querySelector('.sort-arrow').textContent = sortDir === -1 ? '▾' : '▴');
+    render();
+  });
+});
+
+document.getElementById('sortSelect').addEventListener('change', e => {
+  sortCol = e.target.value;
+  sortDir = sortCol === 'champion' ? 1 : -1;
+  render();
+});
+
+document.querySelectorAll('.filter-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    activeRank = btn.dataset.rank;
+    render();
+  });
+});
+
+document.getElementById('search').addEventListener('input', e => {
+  searchQ = e.target.value.toLowerCase().trim();
+  render();
+});
+
+loadData();
+</script>
+</body>
+</html>
