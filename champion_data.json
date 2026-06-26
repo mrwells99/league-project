@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-25T07:05:15.227959Z",
+  "scraped_at": "2026-06-26T07:05:15.193382Z",
   "season": "S2026_1",
   "total_champions": 170,
   "champions": [
@@ -10,7 +10,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Aatrox",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Ahri",
@@ -19,7 +19,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Ahri",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Akali",
@@ -28,7 +28,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Akali",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15002 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Akshan",
@@ -37,7 +37,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Akshan",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Alistar",
@@ -46,7 +46,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Alistar",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15002 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Ambessa",
@@ -55,7 +55,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Ambessa",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Amumu",
@@ -64,7 +64,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Amumu",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Anivia",
@@ -100,7 +100,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Ashe",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15002 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "AurelionSol",
@@ -109,7 +109,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/AurelionSol",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15002 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Aurora",
@@ -118,7 +118,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Aurora",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Azir",
@@ -127,7 +127,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Azir",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15002 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Bard",
@@ -136,7 +136,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Bard",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15002 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Belveth",
@@ -145,7 +145,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Belveth",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Blitzcrank",
@@ -154,7 +154,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Blitzcrank",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Brand",
@@ -163,7 +163,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Brand",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Braum",
@@ -172,7 +172,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Braum",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Briar",
@@ -181,7 +181,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Briar",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Caitlyn",
@@ -190,7 +190,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Caitlyn",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Camille",
@@ -208,7 +208,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Cassiopeia",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Chogath",
@@ -217,7 +217,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Chogath",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Corki",
@@ -253,7 +253,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Draven",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "DrMundo",
@@ -271,7 +271,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Ekko",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Elise",
@@ -289,7 +289,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Evelynn",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Ezreal",
@@ -298,7 +298,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Ezreal",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Fiddlesticks",
@@ -307,7 +307,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Fiddlesticks",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Fiora",
@@ -334,7 +334,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Galio",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Gangplank",
@@ -343,7 +343,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Gangplank",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Garen",
@@ -352,7 +352,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Garen",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Gnar",
@@ -370,7 +370,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Gragas",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Graves",
@@ -388,7 +388,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Gwen",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Hecarim",
@@ -397,7 +397,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Hecarim",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Heimerdinger",
@@ -424,7 +424,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Illaoi",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15002 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Irelia",
@@ -433,7 +433,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Irelia",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15002 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Ivern",
@@ -451,7 +451,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Janna",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "JarvanIV",
@@ -460,7 +460,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/JarvanIV",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15002 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Jax",
@@ -469,7 +469,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Jax",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15002 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Jayce",
@@ -478,7 +478,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Jayce",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Jhin",
@@ -496,7 +496,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Jinx",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15002 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Kaisa",
@@ -505,7 +505,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Kaisa",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15002 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Kalista",
@@ -523,7 +523,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Karma",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Karthus",
@@ -532,7 +532,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Karthus",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Kassadin",
@@ -541,7 +541,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Kassadin",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15002 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Katarina",
@@ -550,7 +550,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Katarina",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Kayle",
@@ -559,7 +559,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Kayle",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15002 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Kayn",
@@ -586,7 +586,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Khazix",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Kindred",
@@ -595,7 +595,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Kindred",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Kled",
@@ -604,7 +604,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Kled",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "KogMaw",
@@ -613,7 +613,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/KogMaw",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "KSante",
@@ -658,7 +658,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Lillia",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Lissandra",
@@ -676,7 +676,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Lucian",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Lulu",
@@ -721,7 +721,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Maokai",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "MasterYi",
@@ -730,7 +730,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/MasterYi",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Mel",
@@ -748,7 +748,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Milio",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "MissFortune",
@@ -766,7 +766,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Mordekaiser",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Morgana",
@@ -802,7 +802,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Nasus",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Nautilus",
@@ -829,7 +829,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Nidalee",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15002 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Nilah",
@@ -838,7 +838,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Nilah",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15002 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Nocturne",
@@ -856,7 +856,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Nunu",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Olaf",
@@ -865,7 +865,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Olaf",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Orianna",
@@ -874,7 +874,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Orianna",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Ornn",
@@ -883,7 +883,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Ornn",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Pantheon",
@@ -901,7 +901,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Poppy",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Pyke",
@@ -910,7 +910,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Pyke",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15002 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Qiyana",
@@ -928,7 +928,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Quinn",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Rakan",
@@ -937,7 +937,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Rakan",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Rammus",
@@ -955,7 +955,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/RekSai",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Rell",
@@ -964,7 +964,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Rell",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Renata",
@@ -982,7 +982,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Renekton",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Rengar",
@@ -991,7 +991,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Rengar",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Riven",
@@ -1000,7 +1000,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Riven",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Rumble",
@@ -1018,7 +1018,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Ryze",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Samira",
@@ -1036,7 +1036,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Sejuani",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Senna",
@@ -1045,7 +1045,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Senna",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Seraphine",
@@ -1054,7 +1054,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Seraphine",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Sett",
@@ -1063,7 +1063,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Sett",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Shaco",
@@ -1090,7 +1090,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Shyvana",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Singed",
@@ -1108,7 +1108,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Sion",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Sivir",
@@ -1117,7 +1117,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Sivir",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Skarner",
@@ -1135,7 +1135,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Smolder",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Sona",
@@ -1162,7 +1162,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Swain",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Sylas",
@@ -1171,7 +1171,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Sylas",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Syndra",
@@ -1180,7 +1180,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Syndra",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "TahmKench",
@@ -1216,7 +1216,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Taric",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Teemo",
@@ -1234,7 +1234,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Thresh",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Tristana",
@@ -1243,7 +1243,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Tristana",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Trundle",
@@ -1252,7 +1252,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Trundle",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Tryndamere",
@@ -1261,7 +1261,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Tryndamere",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "TwistedFate",
@@ -1270,7 +1270,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/TwistedFate",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Twitch",
@@ -1279,7 +1279,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Twitch",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15002 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Udyr",
@@ -1297,7 +1297,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Urgot",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Varus",
@@ -1315,7 +1315,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Vayne",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15002 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Veigar",
@@ -1324,7 +1324,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Veigar",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15002 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Velkoz",
@@ -1342,7 +1342,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Vex",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15002 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Vi",
@@ -1351,7 +1351,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Vi",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15002 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Viego",
@@ -1360,7 +1360,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Viego",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15002 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Viktor",
@@ -1369,7 +1369,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Viktor",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Vladimir",
@@ -1378,7 +1378,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Vladimir",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Volibear",
@@ -1387,7 +1387,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Volibear",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Warwick",
@@ -1405,7 +1405,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Wukong",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Xayah",
@@ -1414,7 +1414,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Xayah",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Xerath",
@@ -1423,7 +1423,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Xerath",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "XinZhao",
@@ -1441,7 +1441,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Yasuo",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Yone",
@@ -1450,7 +1450,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Yone",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Yorick",
@@ -1459,7 +1459,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Yorick",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Yuumi",
@@ -1468,7 +1468,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Yuumi",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Zac",
@@ -1513,7 +1513,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Zilean",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Zoe",
@@ -1522,7 +1522,7 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Zoe",
-      "error": "Failed to perform, curl: (28) Resolving timed out after 15001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (28) Resolving timed out after 15000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Zyra",
