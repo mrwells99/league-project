@@ -1,1287 +1,34 @@
 {
-  "scraped_at": "2026-07-20T06:12:00.084366Z",
+  "scraped_at": "2026-07-21T06:08:32.463851Z",
   "season": "S2026_1",
   "total_champions": 170,
   "champions": [
     {
-      "champion": "Yasuo",
-      "challenger": 9,
-      "grandmaster": 11,
-      "master": 168,
-      "total": 188,
-      "url": "https://www.onetricks.gg/champions/ranking/Yasuo"
-    },
-    {
-      "champion": "Katarina",
-      "challenger": 7,
-      "grandmaster": 17,
-      "master": 143,
-      "total": 167,
-      "url": "https://www.onetricks.gg/champions/ranking/Katarina"
-    },
-    {
-      "champion": "Ekko",
-      "challenger": 6,
-      "grandmaster": 12,
-      "master": 105,
-      "total": 123,
-      "url": "https://www.onetricks.gg/champions/ranking/Ekko"
-    },
-    {
-      "champion": "Shaco",
-      "challenger": 1,
-      "grandmaster": 10,
-      "master": 108,
-      "total": 119,
-      "url": "https://www.onetricks.gg/champions/ranking/Shaco"
-    },
-    {
-      "champion": "Vladimir",
-      "challenger": 6,
-      "grandmaster": 9,
-      "master": 103,
-      "total": 118,
-      "url": "https://www.onetricks.gg/champions/ranking/Vladimir"
-    },
-    {
-      "champion": "Talon",
-      "challenger": 2,
-      "grandmaster": 10,
-      "master": 102,
-      "total": 114,
-      "url": "https://www.onetricks.gg/champions/ranking/Talon"
-    },
-    {
-      "champion": "Velkoz",
-      "challenger": 1,
-      "grandmaster": 6,
-      "master": 105,
-      "total": 112,
-      "url": "https://www.onetricks.gg/champions/ranking/Velkoz"
-    },
-    {
-      "champion": "Zed",
-      "challenger": 1,
-      "grandmaster": 12,
-      "master": 94,
-      "total": 107,
-      "url": "https://www.onetricks.gg/champions/ranking/Zed"
-    },
-    {
-      "champion": "Riven",
-      "challenger": 6,
-      "grandmaster": 7,
-      "master": 90,
-      "total": 103,
-      "url": "https://www.onetricks.gg/champions/ranking/Riven"
-    },
-    {
-      "champion": "Anivia",
-      "challenger": 3,
-      "grandmaster": 5,
-      "master": 94,
-      "total": 102,
-      "url": "https://www.onetricks.gg/champions/ranking/Anivia"
-    },
-    {
-      "champion": "Singed",
-      "challenger": 1,
-      "grandmaster": 11,
-      "master": 84,
-      "total": 96,
-      "url": "https://www.onetricks.gg/champions/ranking/Singed"
-    },
-    {
-      "champion": "Gangplank",
-      "challenger": 2,
-      "grandmaster": 6,
-      "master": 86,
-      "total": 94,
-      "url": "https://www.onetricks.gg/champions/ranking/Gangplank"
-    },
-    {
-      "champion": "MasterYi",
-      "challenger": 3,
-      "grandmaster": 4,
-      "master": 85,
-      "total": 92,
-      "url": "https://www.onetricks.gg/champions/ranking/MasterYi"
-    },
-    {
-      "champion": "Thresh",
-      "challenger": 3,
-      "grandmaster": 6,
-      "master": 83,
-      "total": 92,
-      "url": "https://www.onetricks.gg/champions/ranking/Thresh"
-    },
-    {
-      "champion": "RekSai",
-      "challenger": 4,
-      "grandmaster": 6,
-      "master": 81,
-      "total": 91,
-      "url": "https://www.onetricks.gg/champions/ranking/RekSai"
-    },
-    {
-      "champion": "Shen",
-      "challenger": 2,
-      "grandmaster": 4,
-      "master": 81,
-      "total": 87,
-      "url": "https://www.onetricks.gg/champions/ranking/Shen"
-    },
-    {
-      "champion": "Swain",
+      "champion": "Aatrox",
       "challenger": 0,
-      "grandmaster": 10,
-      "master": 73,
-      "total": 83,
-      "url": "https://www.onetricks.gg/champions/ranking/Swain"
-    },
-    {
-      "champion": "Nunu",
-      "challenger": 2,
-      "grandmaster": 8,
-      "master": 71,
-      "total": 81,
-      "url": "https://www.onetricks.gg/champions/ranking/Nunu"
-    },
-    {
-      "champion": "Qiyana",
-      "challenger": 4,
-      "grandmaster": 3,
-      "master": 72,
-      "total": 79,
-      "url": "https://www.onetricks.gg/champions/ranking/Qiyana"
-    },
-    {
-      "champion": "Rengar",
-      "challenger": 3,
-      "grandmaster": 5,
-      "master": 71,
-      "total": 79,
-      "url": "https://www.onetricks.gg/champions/ranking/Rengar"
-    },
-    {
-      "champion": "Zoe",
-      "challenger": 5,
-      "grandmaster": 6,
-      "master": 66,
-      "total": 77,
-      "url": "https://www.onetricks.gg/champions/ranking/Zoe"
-    },
-    {
-      "champion": "Hecarim",
-      "challenger": 4,
-      "grandmaster": 6,
-      "master": 66,
-      "total": 76,
-      "url": "https://www.onetricks.gg/champions/ranking/Hecarim"
-    },
-    {
-      "champion": "Zac",
-      "challenger": 1,
-      "grandmaster": 3,
-      "master": 72,
-      "total": 76,
-      "url": "https://www.onetricks.gg/champions/ranking/Zac"
-    },
-    {
-      "champion": "Darius",
-      "challenger": 1,
-      "grandmaster": 6,
-      "master": 67,
-      "total": 74,
-      "url": "https://www.onetricks.gg/champions/ranking/Darius"
-    },
-    {
-      "champion": "Bard",
-      "challenger": 1,
-      "grandmaster": 4,
-      "master": 64,
-      "total": 69,
-      "url": "https://www.onetricks.gg/champions/ranking/Bard"
-    },
-    {
-      "champion": "Zilean",
-      "challenger": 2,
-      "grandmaster": 3,
-      "master": 64,
-      "total": 69,
-      "url": "https://www.onetricks.gg/champions/ranking/Zilean"
-    },
-    {
-      "champion": "Pantheon",
-      "challenger": 2,
-      "grandmaster": 1,
-      "master": 63,
-      "total": 66,
-      "url": "https://www.onetricks.gg/champions/ranking/Pantheon"
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Aatrox",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 7 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Ahri",
-      "challenger": 2,
-      "grandmaster": 6,
-      "master": 57,
-      "total": 65,
-      "url": "https://www.onetricks.gg/champions/ranking/Ahri"
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Ahri",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 6 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Akali",
-      "challenger": 1,
-      "grandmaster": 6,
-      "master": 57,
-      "total": 64,
-      "url": "https://www.onetricks.gg/champions/ranking/Akali"
-    },
-    {
-      "champion": "Khazix",
-      "challenger": 0,
-      "grandmaster": 5,
-      "master": 58,
-      "total": 63,
-      "url": "https://www.onetricks.gg/champions/ranking/Khazix"
-    },
-    {
-      "champion": "Irelia",
-      "challenger": 1,
-      "grandmaster": 5,
-      "master": 56,
-      "total": 62,
-      "url": "https://www.onetricks.gg/champions/ranking/Irelia"
-    },
-    {
-      "champion": "Cassiopeia",
-      "challenger": 6,
-      "grandmaster": 6,
-      "master": 49,
-      "total": 61,
-      "url": "https://www.onetricks.gg/champions/ranking/Cassiopeia"
-    },
-    {
-      "champion": "Urgot",
-      "challenger": 2,
-      "grandmaster": 4,
-      "master": 55,
-      "total": 61,
-      "url": "https://www.onetricks.gg/champions/ranking/Urgot"
-    },
-    {
-      "champion": "Warwick",
-      "challenger": 0,
-      "grandmaster": 1,
-      "master": 60,
-      "total": 61,
-      "url": "https://www.onetricks.gg/champions/ranking/Warwick"
-    },
-    {
-      "champion": "Xerath",
-      "challenger": 3,
-      "grandmaster": 4,
-      "master": 52,
-      "total": 59,
-      "url": "https://www.onetricks.gg/champions/ranking/Xerath"
-    },
-    {
-      "champion": "Aatrox",
-      "challenger": 1,
-      "grandmaster": 4,
-      "master": 53,
-      "total": 58,
-      "url": "https://www.onetricks.gg/champions/ranking/Aatrox"
-    },
-    {
-      "champion": "Udyr",
-      "challenger": 0,
-      "grandmaster": 9,
-      "master": 49,
-      "total": 58,
-      "url": "https://www.onetricks.gg/champions/ranking/Udyr"
-    },
-    {
-      "champion": "Belveth",
-      "challenger": 1,
-      "grandmaster": 3,
-      "master": 53,
-      "total": 57,
-      "url": "https://www.onetricks.gg/champions/ranking/Belveth"
-    },
-    {
-      "champion": "Karthus",
-      "challenger": 4,
-      "grandmaster": 5,
-      "master": 48,
-      "total": 57,
-      "url": "https://www.onetricks.gg/champions/ranking/Karthus"
-    },
-    {
-      "champion": "Viego",
-      "challenger": 1,
-      "grandmaster": 2,
-      "master": 54,
-      "total": 57,
-      "url": "https://www.onetricks.gg/champions/ranking/Viego"
-    },
-    {
-      "champion": "Fiddlesticks",
-      "challenger": 2,
-      "grandmaster": 6,
-      "master": 48,
-      "total": 56,
-      "url": "https://www.onetricks.gg/champions/ranking/Fiddlesticks"
-    },
-    {
-      "champion": "Fiora",
-      "challenger": 2,
-      "grandmaster": 6,
-      "master": 48,
-      "total": 56,
-      "url": "https://www.onetricks.gg/champions/ranking/Fiora"
-    },
-    {
-      "champion": "Fizz",
-      "challenger": 3,
-      "grandmaster": 3,
-      "master": 50,
-      "total": 56,
-      "url": "https://www.onetricks.gg/champions/ranking/Fizz"
-    },
-    {
-      "champion": "Kayn",
-      "challenger": 2,
-      "grandmaster": 0,
-      "master": 52,
-      "total": 54,
-      "url": "https://www.onetricks.gg/champions/ranking/Kayn"
-    },
-    {
-      "champion": "Olaf",
-      "challenger": 0,
-      "grandmaster": 2,
-      "master": 52,
-      "total": 54,
-      "url": "https://www.onetricks.gg/champions/ranking/Olaf"
-    },
-    {
-      "champion": "Teemo",
-      "challenger": 1,
-      "grandmaster": 4,
-      "master": 49,
-      "total": 54,
-      "url": "https://www.onetricks.gg/champions/ranking/Teemo"
-    },
-    {
-      "champion": "Tryndamere",
-      "challenger": 2,
-      "grandmaster": 7,
-      "master": 45,
-      "total": 54,
-      "url": "https://www.onetricks.gg/champions/ranking/Tryndamere"
-    },
-    {
-      "champion": "Briar",
-      "challenger": 0,
-      "grandmaster": 2,
-      "master": 49,
-      "total": 51,
-      "url": "https://www.onetricks.gg/champions/ranking/Briar"
-    },
-    {
-      "champion": "Taliyah",
-      "challenger": 4,
-      "grandmaster": 8,
-      "master": 39,
-      "total": 51,
-      "url": "https://www.onetricks.gg/champions/ranking/Taliyah"
-    },
-    {
-      "champion": "Garen",
-      "challenger": 0,
-      "grandmaster": 2,
-      "master": 48,
-      "total": 50,
-      "url": "https://www.onetricks.gg/champions/ranking/Garen"
-    },
-    {
-      "champion": "Sona",
-      "challenger": 0,
-      "grandmaster": 5,
-      "master": 45,
-      "total": 50,
-      "url": "https://www.onetricks.gg/champions/ranking/Sona"
-    },
-    {
-      "champion": "Evelynn",
-      "challenger": 0,
-      "grandmaster": 4,
-      "master": 45,
-      "total": 49,
-      "url": "https://www.onetricks.gg/champions/ranking/Evelynn"
-    },
-    {
-      "champion": "Gragas",
-      "challenger": 1,
-      "grandmaster": 3,
-      "master": 45,
-      "total": 49,
-      "url": "https://www.onetricks.gg/champions/ranking/Gragas"
-    },
-    {
-      "champion": "TwistedFate",
-      "challenger": 2,
-      "grandmaster": 3,
-      "master": 44,
-      "total": 49,
-      "url": "https://www.onetricks.gg/champions/ranking/TwistedFate"
-    },
-    {
-      "champion": "Diana",
-      "challenger": 0,
-      "grandmaster": 2,
-      "master": 46,
-      "total": 48,
-      "url": "https://www.onetricks.gg/champions/ranking/Diana"
-    },
-    {
-      "champion": "Jhin",
-      "challenger": 1,
-      "grandmaster": 3,
-      "master": 44,
-      "total": 48,
-      "url": "https://www.onetricks.gg/champions/ranking/Jhin"
-    },
-    {
-      "champion": "Ornn",
-      "challenger": 0,
-      "grandmaster": 4,
-      "master": 44,
-      "total": 48,
-      "url": "https://www.onetricks.gg/champions/ranking/Ornn"
-    },
-    {
-      "champion": "KSante",
-      "challenger": 2,
-      "grandmaster": 4,
-      "master": 41,
-      "total": 47,
-      "url": "https://www.onetricks.gg/champions/ranking/KSante"
-    },
-    {
-      "champion": "Pyke",
-      "challenger": 1,
-      "grandmaster": 0,
-      "master": 46,
-      "total": 47,
-      "url": "https://www.onetricks.gg/champions/ranking/Pyke"
-    },
-    {
-      "champion": "Syndra",
-      "challenger": 3,
-      "grandmaster": 4,
-      "master": 40,
-      "total": 47,
-      "url": "https://www.onetricks.gg/champions/ranking/Syndra"
-    },
-    {
-      "champion": "AurelionSol",
-      "challenger": 2,
-      "grandmaster": 6,
-      "master": 38,
-      "total": 46,
-      "url": "https://www.onetricks.gg/champions/ranking/AurelionSol"
-    },
-    {
-      "champion": "Heimerdinger",
-      "challenger": 0,
-      "grandmaster": 3,
-      "master": 42,
-      "total": 45,
-      "url": "https://www.onetricks.gg/champions/ranking/Heimerdinger"
-    },
-    {
-      "champion": "Veigar",
-      "challenger": 1,
-      "grandmaster": 1,
-      "master": 43,
-      "total": 45,
-      "url": "https://www.onetricks.gg/champions/ranking/Veigar"
-    },
-    {
-      "champion": "Aphelios",
-      "challenger": 0,
-      "grandmaster": 3,
-      "master": 41,
-      "total": 44,
-      "url": "https://www.onetricks.gg/champions/ranking/Aphelios"
-    },
-    {
-      "champion": "Elise",
-      "challenger": 0,
-      "grandmaster": 3,
-      "master": 41,
-      "total": 44,
-      "url": "https://www.onetricks.gg/champions/ranking/Elise"
-    },
-    {
-      "champion": "Zyra",
-      "challenger": 1,
-      "grandmaster": 1,
-      "master": 42,
-      "total": 44,
-      "url": "https://www.onetricks.gg/champions/ranking/Zyra"
-    },
-    {
-      "champion": "Kindred",
-      "challenger": 1,
-      "grandmaster": 5,
-      "master": 37,
-      "total": 43,
-      "url": "https://www.onetricks.gg/champions/ranking/Kindred"
-    },
-    {
-      "champion": "LeeSin",
-      "challenger": 0,
-      "grandmaster": 1,
-      "master": 41,
-      "total": 42,
-      "url": "https://www.onetricks.gg/champions/ranking/LeeSin"
-    },
-    {
-      "champion": "Soraka",
-      "challenger": 1,
-      "grandmaster": 1,
-      "master": 39,
-      "total": 41,
-      "url": "https://www.onetricks.gg/champions/ranking/Soraka"
-    },
-    {
-      "champion": "Ivern",
-      "challenger": 2,
-      "grandmaster": 6,
-      "master": 32,
-      "total": 40,
-      "url": "https://www.onetricks.gg/champions/ranking/Ivern"
-    },
-    {
-      "champion": "Nidalee",
-      "challenger": 3,
-      "grandmaster": 5,
-      "master": 32,
-      "total": 40,
-      "url": "https://www.onetricks.gg/champions/ranking/Nidalee"
-    },
-    {
-      "champion": "Galio",
-      "challenger": 2,
-      "grandmaster": 3,
-      "master": 33,
-      "total": 38,
-      "url": "https://www.onetricks.gg/champions/ranking/Galio"
-    },
-    {
-      "champion": "Illaoi",
       "challenger": 0,
       "grandmaster": 0,
-      "master": 38,
-      "total": 38,
-      "url": "https://www.onetricks.gg/champions/ranking/Illaoi"
-    },
-    {
-      "champion": "Poppy",
-      "challenger": 0,
-      "grandmaster": 4,
-      "master": 34,
-      "total": 38,
-      "url": "https://www.onetricks.gg/champions/ranking/Poppy"
-    },
-    {
-      "champion": "Camille",
-      "challenger": 0,
-      "grandmaster": 4,
-      "master": 33,
-      "total": 37,
-      "url": "https://www.onetricks.gg/champions/ranking/Camille"
-    },
-    {
-      "champion": "Twitch",
-      "challenger": 1,
-      "grandmaster": 1,
-      "master": 35,
-      "total": 37,
-      "url": "https://www.onetricks.gg/champions/ranking/Twitch"
-    },
-    {
-      "champion": "Kled",
-      "challenger": 2,
-      "grandmaster": 1,
-      "master": 33,
-      "total": 36,
-      "url": "https://www.onetricks.gg/champions/ranking/Kled"
-    },
-    {
-      "champion": "Jinx",
-      "challenger": 0,
-      "grandmaster": 2,
-      "master": 33,
-      "total": 35,
-      "url": "https://www.onetricks.gg/champions/ranking/Jinx"
-    },
-    {
-      "champion": "Sett",
-      "challenger": 0,
-      "grandmaster": 1,
-      "master": 34,
-      "total": 35,
-      "url": "https://www.onetricks.gg/champions/ranking/Sett"
-    },
-    {
-      "champion": "Janna",
-      "challenger": 0,
-      "grandmaster": 3,
-      "master": 31,
-      "total": 34,
-      "url": "https://www.onetricks.gg/champions/ranking/Janna"
-    },
-    {
-      "champion": "Jax",
-      "challenger": 2,
-      "grandmaster": 1,
-      "master": 31,
-      "total": 34,
-      "url": "https://www.onetricks.gg/champions/ranking/Jax"
-    },
-    {
-      "champion": "Leblanc",
-      "challenger": 1,
-      "grandmaster": 3,
-      "master": 30,
-      "total": 34,
-      "url": "https://www.onetricks.gg/champions/ranking/Leblanc"
-    },
-    {
-      "champion": "Seraphine",
-      "challenger": 0,
-      "grandmaster": 3,
-      "master": 31,
-      "total": 34,
-      "url": "https://www.onetricks.gg/champions/ranking/Seraphine"
-    },
-    {
-      "champion": "Senna",
-      "challenger": 0,
-      "grandmaster": 3,
-      "master": 30,
-      "total": 33,
-      "url": "https://www.onetricks.gg/champions/ranking/Senna"
-    },
-    {
-      "champion": "Vayne",
-      "challenger": 0,
-      "grandmaster": 1,
-      "master": 32,
-      "total": 33,
-      "url": "https://www.onetricks.gg/champions/ranking/Vayne"
-    },
-    {
-      "champion": "Chogath",
-      "challenger": 0,
-      "grandmaster": 4,
-      "master": 28,
-      "total": 32,
-      "url": "https://www.onetricks.gg/champions/ranking/Chogath"
-    },
-    {
-      "champion": "Rell",
-      "challenger": 1,
-      "grandmaster": 4,
-      "master": 27,
-      "total": 32,
-      "url": "https://www.onetricks.gg/champions/ranking/Rell"
-    },
-    {
-      "champion": "Taric",
-      "challenger": 1,
-      "grandmaster": 6,
-      "master": 25,
-      "total": 32,
-      "url": "https://www.onetricks.gg/champions/ranking/Taric"
-    },
-    {
-      "champion": "Gwen",
-      "challenger": 1,
-      "grandmaster": 0,
-      "master": 30,
-      "total": 31,
-      "url": "https://www.onetricks.gg/champions/ranking/Gwen"
-    },
-    {
-      "champion": "Lulu",
-      "challenger": 0,
-      "grandmaster": 2,
-      "master": 29,
-      "total": 31,
-      "url": "https://www.onetricks.gg/champions/ranking/Lulu"
-    },
-    {
-      "champion": "TahmKench",
-      "challenger": 0,
-      "grandmaster": 0,
-      "master": 31,
-      "total": 31,
-      "url": "https://www.onetricks.gg/champions/ranking/TahmKench"
-    },
-    {
-      "champion": "Nami",
-      "challenger": 0,
-      "grandmaster": 3,
-      "master": 27,
-      "total": 30,
-      "url": "https://www.onetricks.gg/champions/ranking/Nami"
-    },
-    {
-      "champion": "Kassadin",
-      "challenger": 1,
-      "grandmaster": 3,
-      "master": 25,
-      "total": 29,
-      "url": "https://www.onetricks.gg/champions/ranking/Kassadin"
-    },
-    {
-      "champion": "Malzahar",
-      "challenger": 0,
-      "grandmaster": 0,
-      "master": 29,
-      "total": 29,
-      "url": "https://www.onetricks.gg/champions/ranking/Malzahar"
-    },
-    {
-      "champion": "Quinn",
-      "challenger": 2,
-      "grandmaster": 1,
-      "master": 26,
-      "total": 29,
-      "url": "https://www.onetricks.gg/champions/ranking/Quinn"
-    },
-    {
-      "champion": "DrMundo",
-      "challenger": 0,
-      "grandmaster": 3,
-      "master": 25,
-      "total": 28,
-      "url": "https://www.onetricks.gg/champions/ranking/DrMundo"
-    },
-    {
-      "champion": "Leona",
-      "challenger": 0,
-      "grandmaster": 1,
-      "master": 27,
-      "total": 28,
-      "url": "https://www.onetricks.gg/champions/ranking/Leona"
-    },
-    {
-      "champion": "Samira",
-      "challenger": 0,
-      "grandmaster": 2,
-      "master": 26,
-      "total": 28,
-      "url": "https://www.onetricks.gg/champions/ranking/Samira"
-    },
-    {
-      "champion": "Jayce",
-      "challenger": 0,
-      "grandmaster": 4,
-      "master": 23,
-      "total": 27,
-      "url": "https://www.onetricks.gg/champions/ranking/Jayce"
-    },
-    {
-      "champion": "Karma",
-      "challenger": 0,
-      "grandmaster": 2,
-      "master": 25,
-      "total": 27,
-      "url": "https://www.onetricks.gg/champions/ranking/Karma"
-    },
-    {
-      "champion": "Nocturne",
-      "challenger": 0,
-      "grandmaster": 1,
-      "master": 26,
-      "total": 27,
-      "url": "https://www.onetricks.gg/champions/ranking/Nocturne"
-    },
-    {
-      "champion": "Viktor",
-      "challenger": 1,
-      "grandmaster": 4,
-      "master": 22,
-      "total": 27,
-      "url": "https://www.onetricks.gg/champions/ranking/Viktor"
-    },
-    {
-      "champion": "Azir",
-      "challenger": 2,
-      "grandmaster": 1,
-      "master": 23,
-      "total": 26,
-      "url": "https://www.onetricks.gg/champions/ranking/Azir"
-    },
-    {
-      "champion": "KogMaw",
-      "challenger": 1,
-      "grandmaster": 2,
-      "master": 23,
-      "total": 26,
-      "url": "https://www.onetricks.gg/champions/ranking/KogMaw"
-    },
-    {
-      "champion": "Lissandra",
-      "challenger": 1,
-      "grandmaster": 3,
-      "master": 21,
-      "total": 25,
-      "url": "https://www.onetricks.gg/champions/ranking/Lissandra"
-    },
-    {
-      "champion": "Renekton",
-      "challenger": 0,
-      "grandmaster": 3,
-      "master": 22,
-      "total": 25,
-      "url": "https://www.onetricks.gg/champions/ranking/Renekton"
-    },
-    {
-      "champion": "Volibear",
-      "challenger": 0,
-      "grandmaster": 2,
-      "master": 23,
-      "total": 25,
-      "url": "https://www.onetricks.gg/champions/ranking/Volibear"
-    },
-    {
-      "champion": "Alistar",
-      "challenger": 0,
-      "grandmaster": 3,
-      "master": 21,
-      "total": 24,
-      "url": "https://www.onetricks.gg/champions/ranking/Alistar"
-    },
-    {
-      "champion": "Caitlyn",
-      "challenger": 1,
-      "grandmaster": 2,
-      "master": 21,
-      "total": 24,
-      "url": "https://www.onetricks.gg/champions/ranking/Caitlyn"
-    },
-    {
-      "champion": "Kennen",
-      "challenger": 0,
-      "grandmaster": 2,
-      "master": 22,
-      "total": 24,
-      "url": "https://www.onetricks.gg/champions/ranking/Kennen"
-    },
-    {
-      "champion": "Nasus",
-      "challenger": 3,
-      "grandmaster": 0,
-      "master": 21,
-      "total": 24,
-      "url": "https://www.onetricks.gg/champions/ranking/Nasus"
-    },
-    {
-      "champion": "Tristana",
-      "challenger": 0,
-      "grandmaster": 2,
-      "master": 22,
-      "total": 24,
-      "url": "https://www.onetricks.gg/champions/ranking/Tristana"
-    },
-    {
-      "champion": "Kayle",
-      "challenger": 1,
-      "grandmaster": 1,
-      "master": 21,
-      "total": 23,
-      "url": "https://www.onetricks.gg/champions/ranking/Kayle"
-    },
-    {
-      "champion": "Rumble",
-      "challenger": 0,
-      "grandmaster": 1,
-      "master": 22,
-      "total": 23,
-      "url": "https://www.onetricks.gg/champions/ranking/Rumble"
-    },
-    {
-      "champion": "Ambessa",
-      "challenger": 0,
-      "grandmaster": 4,
-      "master": 18,
-      "total": 22,
-      "url": "https://www.onetricks.gg/champions/ranking/Ambessa"
-    },
-    {
-      "champion": "Annie",
-      "challenger": 2,
-      "grandmaster": 2,
-      "master": 18,
-      "total": 22,
-      "url": "https://www.onetricks.gg/champions/ranking/Annie"
-    },
-    {
-      "champion": "Mordekaiser",
-      "challenger": 0,
-      "grandmaster": 0,
-      "master": 22,
-      "total": 22,
-      "url": "https://www.onetricks.gg/champions/ranking/Mordekaiser"
-    },
-    {
-      "champion": "Sion",
-      "challenger": 0,
-      "grandmaster": 0,
-      "master": 22,
-      "total": 22,
-      "url": "https://www.onetricks.gg/champions/ranking/Sion"
-    },
-    {
-      "champion": "Skarner",
-      "challenger": 2,
-      "grandmaster": 3,
-      "master": 17,
-      "total": 22,
-      "url": "https://www.onetricks.gg/champions/ranking/Skarner"
-    },
-    {
-      "champion": "Yorick",
-      "challenger": 0,
-      "grandmaster": 0,
-      "master": 22,
-      "total": 22,
-      "url": "https://www.onetricks.gg/champions/ranking/Yorick"
-    },
-    {
-      "champion": "Zeri",
-      "challenger": 1,
-      "grandmaster": 1,
-      "master": 20,
-      "total": 22,
-      "url": "https://www.onetricks.gg/champions/ranking/Zeri"
-    },
-    {
-      "champion": "Kalista",
-      "challenger": 1,
-      "grandmaster": 2,
-      "master": 18,
-      "total": 21,
-      "url": "https://www.onetricks.gg/champions/ranking/Kalista"
-    },
-    {
-      "champion": "Nautilus",
-      "challenger": 0,
-      "grandmaster": 1,
-      "master": 18,
-      "total": 19,
-      "url": "https://www.onetricks.gg/champions/ranking/Nautilus"
-    },
-    {
-      "champion": "Brand",
-      "challenger": 2,
-      "grandmaster": 3,
-      "master": 13,
-      "total": 18,
-      "url": "https://www.onetricks.gg/champions/ranking/Brand"
-    },
-    {
-      "champion": "Blitzcrank",
-      "challenger": 0,
-      "grandmaster": 0,
-      "master": 17,
-      "total": 17,
-      "url": "https://www.onetricks.gg/champions/ranking/Blitzcrank"
-    },
-    {
-      "champion": "JarvanIV",
-      "challenger": 0,
-      "grandmaster": 2,
-      "master": 15,
-      "total": 17,
-      "url": "https://www.onetricks.gg/champions/ranking/JarvanIV"
-    },
-    {
-      "champion": "Maokai",
-      "challenger": 0,
-      "grandmaster": 3,
-      "master": 14,
-      "total": 17,
-      "url": "https://www.onetricks.gg/champions/ranking/Maokai"
-    },
-    {
-      "champion": "Sejuani",
-      "challenger": 0,
-      "grandmaster": 0,
-      "master": 17,
-      "total": 17,
-      "url": "https://www.onetricks.gg/champions/ranking/Sejuani"
-    },
-    {
-      "champion": "Sylas",
-      "challenger": 2,
-      "grandmaster": 4,
-      "master": 11,
-      "total": 17,
-      "url": "https://www.onetricks.gg/champions/ranking/Sylas"
-    },
-    {
-      "champion": "XinZhao",
-      "challenger": 0,
-      "grandmaster": 1,
-      "master": 16,
-      "total": 17,
-      "url": "https://www.onetricks.gg/champions/ranking/XinZhao"
-    },
-    {
-      "champion": "Rammus",
-      "challenger": 1,
-      "grandmaster": 1,
-      "master": 14,
-      "total": 16,
-      "url": "https://www.onetricks.gg/champions/ranking/Rammus"
-    },
-    {
-      "champion": "Ezreal",
-      "challenger": 1,
-      "grandmaster": 0,
-      "master": 14,
-      "total": 15,
-      "url": "https://www.onetricks.gg/champions/ranking/Ezreal"
-    },
-    {
-      "champion": "Shyvana",
-      "challenger": 2,
-      "grandmaster": 1,
-      "master": 12,
-      "total": 15,
-      "url": "https://www.onetricks.gg/champions/ranking/Shyvana"
-    },
-    {
-      "champion": "Vex",
-      "challenger": 0,
-      "grandmaster": 2,
-      "master": 13,
-      "total": 15,
-      "url": "https://www.onetricks.gg/champions/ranking/Vex"
-    },
-    {
-      "champion": "Xayah",
-      "challenger": 0,
-      "grandmaster": 1,
-      "master": 14,
-      "total": 15,
-      "url": "https://www.onetricks.gg/champions/ranking/Xayah"
-    },
-    {
-      "champion": "Yuumi",
-      "challenger": 0,
-      "grandmaster": 1,
-      "master": 14,
-      "total": 15,
-      "url": "https://www.onetricks.gg/champions/ranking/Yuumi"
-    },
-    {
-      "champion": "Aurora",
-      "challenger": 1,
-      "grandmaster": 0,
-      "master": 13,
-      "total": 14,
-      "url": "https://www.onetricks.gg/champions/ranking/Aurora"
-    },
-    {
-      "champion": "Orianna",
-      "challenger": 1,
-      "grandmaster": 2,
-      "master": 11,
-      "total": 14,
-      "url": "https://www.onetricks.gg/champions/ranking/Orianna"
-    },
-    {
-      "champion": "Trundle",
-      "challenger": 1,
-      "grandmaster": 0,
-      "master": 13,
-      "total": 14,
-      "url": "https://www.onetricks.gg/champions/ranking/Trundle"
-    },
-    {
-      "champion": "MissFortune",
-      "challenger": 1,
-      "grandmaster": 0,
-      "master": 12,
-      "total": 13,
-      "url": "https://www.onetricks.gg/champions/ranking/MissFortune"
-    },
-    {
-      "champion": "Naafiri",
-      "challenger": 0,
-      "grandmaster": 1,
-      "master": 12,
-      "total": 13,
-      "url": "https://www.onetricks.gg/champions/ranking/Naafiri"
-    },
-    {
-      "champion": "Graves",
-      "challenger": 0,
-      "grandmaster": 4,
-      "master": 8,
-      "total": 12,
-      "url": "https://www.onetricks.gg/champions/ranking/Graves"
-    },
-    {
-      "champion": "Ryze",
-      "challenger": 0,
-      "grandmaster": 0,
-      "master": 12,
-      "total": 12,
-      "url": "https://www.onetricks.gg/champions/ranking/Ryze"
-    },
-    {
-      "champion": "Vi",
-      "challenger": 0,
-      "grandmaster": 0,
-      "master": 12,
-      "total": 12,
-      "url": "https://www.onetricks.gg/champions/ranking/Vi"
-    },
-    {
-      "champion": "Ziggs",
-      "challenger": 0,
-      "grandmaster": 1,
-      "master": 11,
-      "total": 12,
-      "url": "https://www.onetricks.gg/champions/ranking/Ziggs"
-    },
-    {
-      "champion": "Kaisa",
-      "challenger": 0,
-      "grandmaster": 0,
-      "master": 11,
-      "total": 11,
-      "url": "https://www.onetricks.gg/champions/ranking/Kaisa"
-    },
-    {
-      "champion": "Nilah",
-      "challenger": 0,
-      "grandmaster": 1,
-      "master": 10,
-      "total": 11,
-      "url": "https://www.onetricks.gg/champions/ranking/Nilah"
-    },
-    {
-      "champion": "Smolder",
-      "challenger": 0,
-      "grandmaster": 1,
-      "master": 10,
-      "total": 11,
-      "url": "https://www.onetricks.gg/champions/ranking/Smolder"
-    },
-    {
-      "champion": "Morgana",
-      "challenger": 0,
-      "grandmaster": 1,
-      "master": 9,
-      "total": 10,
-      "url": "https://www.onetricks.gg/champions/ranking/Morgana"
-    },
-    {
-      "champion": "Amumu",
-      "challenger": 0,
-      "grandmaster": 0,
-      "master": 9,
-      "total": 9,
-      "url": "https://www.onetricks.gg/champions/ranking/Amumu"
-    },
-    {
-      "champion": "Lillia",
-      "challenger": 0,
-      "grandmaster": 0,
-      "master": 8,
-      "total": 8,
-      "url": "https://www.onetricks.gg/champions/ranking/Lillia"
-    },
-    {
-      "champion": "Sivir",
-      "challenger": 0,
-      "grandmaster": 0,
-      "master": 8,
-      "total": 8,
-      "url": "https://www.onetricks.gg/champions/ranking/Sivir"
-    },
-    {
-      "champion": "Lucian",
-      "challenger": 0,
-      "grandmaster": 1,
-      "master": 6,
-      "total": 7,
-      "url": "https://www.onetricks.gg/champions/ranking/Lucian"
-    },
-    {
-      "champion": "Milio",
-      "challenger": 0,
-      "grandmaster": 0,
-      "master": 7,
-      "total": 7,
-      "url": "https://www.onetricks.gg/champions/ranking/Milio"
-    },
-    {
-      "champion": "Renata",
-      "challenger": 0,
-      "grandmaster": 1,
-      "master": 3,
-      "total": 4,
-      "url": "https://www.onetricks.gg/champions/ranking/Renata"
-    },
-    {
-      "champion": "Ashe",
-      "challenger": 0,
-      "grandmaster": 0,
-      "master": 3,
-      "total": 3,
-      "url": "https://www.onetricks.gg/champions/ranking/Ashe"
-    },
-    {
-      "champion": "Braum",
-      "challenger": 0,
-      "grandmaster": 1,
-      "master": 2,
-      "total": 3,
-      "url": "https://www.onetricks.gg/champions/ranking/Braum"
-    },
-    {
-      "champion": "Malphite",
-      "challenger": 0,
-      "grandmaster": 0,
-      "master": 3,
-      "total": 3,
-      "url": "https://www.onetricks.gg/champions/ranking/Malphite"
-    },
-    {
-      "champion": "Corki",
-      "challenger": 0,
-      "grandmaster": 0,
-      "master": 1,
-      "total": 1,
-      "url": "https://www.onetricks.gg/champions/ranking/Corki"
-    },
-    {
-      "champion": "Mel",
-      "challenger": 0,
-      "grandmaster": 0,
-      "master": 1,
-      "total": 1,
-      "url": "https://www.onetricks.gg/champions/ranking/Mel"
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Akali",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 6 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Akshan",
@@ -1290,7 +37,214 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Akshan",
-      "error": "Failed to perform, curl: (28) Operation timed out after 15000 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 7 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Alistar",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Alistar",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 6 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Ambessa",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Ambessa",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 6 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Amumu",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Amumu",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 5 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Anivia",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Anivia",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 6 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Annie",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Annie",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 6 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Aphelios",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Aphelios",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 6 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Ashe",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Ashe",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 6 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "AurelionSol",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/AurelionSol",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 3 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Aurora",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Aurora",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 6 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Azir",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Azir",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 2 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Bard",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Bard",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 5 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Belveth",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Belveth",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 3 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Blitzcrank",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Blitzcrank",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 6 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Brand",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Brand",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 6 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Braum",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Braum",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 6 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Briar",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Briar",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 4 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Caitlyn",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Caitlyn",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 3 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Camille",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Camille",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 6 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Cassiopeia",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Cassiopeia",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 6 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Chogath",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Chogath",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 5 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Corki",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Corki",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 7 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Darius",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Darius",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 6 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Diana",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Diana",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 6 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Draven",
@@ -1299,7 +253,106 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Draven",
-      "error": "Failed to perform, curl: (28) Operation timed out after 15001 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 6 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "DrMundo",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/DrMundo",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 6 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Ekko",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Ekko",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 6 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Elise",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Elise",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 3 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Evelynn",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Evelynn",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 3 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Ezreal",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Ezreal",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 3 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Fiddlesticks",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Fiddlesticks",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 3 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Fiora",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Fiora",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 2 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Fizz",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Fizz",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 3 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Galio",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Galio",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 5 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Gangplank",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Gangplank",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 6 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Garen",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Garen",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 5 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Gnar",
@@ -1308,7 +361,52 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Gnar",
-      "error": "Failed to perform, curl: (28) Operation timed out after 15002 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 3 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Gragas",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Gragas",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 2 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Graves",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Graves",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 6 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Gwen",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Gwen",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 5 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Hecarim",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Hecarim",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 6 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Heimerdinger",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Heimerdinger",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 5 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Hwei",
@@ -1317,7 +415,277 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Hwei",
-      "error": "Failed to perform, curl: (28) Operation timed out after 15001 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 6 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Illaoi",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Illaoi",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 5 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Irelia",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Irelia",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 6 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Ivern",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Ivern",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 6 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Janna",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Janna",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 6 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "JarvanIV",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/JarvanIV",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 3 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Jax",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Jax",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 3 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Jayce",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Jayce",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 3 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Jhin",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Jhin",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 3 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Jinx",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Jinx",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 2 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Kaisa",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Kaisa",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 3 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Kalista",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Kalista",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 5 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Karma",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Karma",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 6 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Karthus",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Karthus",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 5 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Kassadin",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Kassadin",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 3 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Katarina",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Katarina",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 3 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Kayle",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Kayle",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 6 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Kayn",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Kayn",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 6 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Kennen",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Kennen",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 5 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Khazix",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Khazix",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 6 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Kindred",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Kindred",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 5 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Kled",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Kled",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 6 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "KogMaw",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/KogMaw",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 5 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "KSante",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/KSante",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 6 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Leblanc",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Leblanc",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 5 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "LeeSin",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/LeeSin",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 6 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Leona",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Leona",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 3 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Lillia",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Lillia",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 3 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Lissandra",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Lissandra",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 6 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Lucian",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Lucian",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 7 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Lulu",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Lulu",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 3 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Lux",
@@ -1326,7 +694,124 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Lux",
-      "error": "Failed to perform, curl: (28) Operation timed out after 15000 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 10 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Malphite",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Malphite",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 5 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Malzahar",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Malzahar",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 5 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Maokai",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Maokai",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 3 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "MasterYi",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/MasterYi",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 3 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Mel",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Mel",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 6 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Milio",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Milio",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 5 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "MissFortune",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/MissFortune",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 5 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Mordekaiser",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Mordekaiser",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 5 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Morgana",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Morgana",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 6 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Naafiri",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Naafiri",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 6 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Nami",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Nami",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 5 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Nasus",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Nasus",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 6 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Nautilus",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Nautilus",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 5 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Neeko",
@@ -1335,7 +820,115 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Neeko",
-      "error": "Failed to perform, curl: (28) Operation timed out after 15001 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 3 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Nidalee",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Nidalee",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 6 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Nilah",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Nilah",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 3 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Nocturne",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Nocturne",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 5 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Nunu",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Nunu",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 4 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Olaf",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Olaf",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 3 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Orianna",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Orianna",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 5 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Ornn",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Ornn",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 5 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Pantheon",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Pantheon",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 5 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Poppy",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Poppy",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 3 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Pyke",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Pyke",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 3 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Qiyana",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Qiyana",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 6 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Quinn",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Quinn",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 5 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Rakan",
@@ -1344,7 +937,367 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Rakan",
-      "error": "Failed to perform, curl: (28) Operation timed out after 15001 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 5 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Rammus",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Rammus",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 6 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "RekSai",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/RekSai",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 5 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Rell",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Rell",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 5 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Renata",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Renata",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 6 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Renekton",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Renekton",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 5 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Rengar",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Rengar",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 6 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Riven",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Riven",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 6 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Rumble",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Rumble",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 5 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Ryze",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Ryze",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 4 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Samira",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Samira",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 6 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Sejuani",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Sejuani",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 4 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Senna",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Senna",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 3 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Seraphine",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Seraphine",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 6 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Sett",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Sett",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 5 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Shaco",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Shaco",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 6 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Shen",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Shen",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 4 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Shyvana",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Shyvana",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 3 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Singed",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Singed",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 6 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Sion",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Sion",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 23 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Sivir",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Sivir",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 22 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Skarner",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Skarner",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 22 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Smolder",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Smolder",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 24 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Sona",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Sona",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 25 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Soraka",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Soraka",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 25 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Swain",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Swain",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 6 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Sylas",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Sylas",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 5 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Syndra",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Syndra",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 3 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "TahmKench",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/TahmKench",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 21 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Taliyah",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Taliyah",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 3 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Talon",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Talon",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 5 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Taric",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Taric",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 3 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Teemo",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Teemo",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 20 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Thresh",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Thresh",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 21 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Tristana",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Tristana",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 6 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Trundle",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Trundle",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 22 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Tryndamere",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Tryndamere",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 3 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "TwistedFate",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/TwistedFate",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 25 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Twitch",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Twitch",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 6 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Udyr",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Udyr",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 22 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Urgot",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Urgot",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 21 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Varus",
@@ -1353,7 +1306,97 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Varus",
-      "error": "Failed to perform, curl: (28) Operation timed out after 15001 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 6 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Vayne",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Vayne",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 5 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Veigar",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Veigar",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 23 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Velkoz",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Velkoz",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 4 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Vex",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Vex",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 21 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Vi",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Vi",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 7 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Viego",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Viego",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 3 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Viktor",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Viktor",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 6 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Vladimir",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Vladimir",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 3 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Volibear",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Volibear",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 5 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Warwick",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Warwick",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 20 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Wukong",
@@ -1362,7 +1405,43 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Wukong",
-      "error": "HTTP Error 404: "
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 3 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Xayah",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Xayah",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 6 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Xerath",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Xerath",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 25 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "XinZhao",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/XinZhao",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 5 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Yasuo",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Yasuo",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 3 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     },
     {
       "champion": "Yone",
@@ -1371,7 +1450,88 @@
       "master": 0,
       "total": 0,
       "url": "https://www.onetricks.gg/champions/ranking/Yone",
-      "error": "Failed to perform, curl: (28) Operation timed out after 15001 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 3 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Yorick",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Yorick",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 22 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Yuumi",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Yuumi",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 24 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Zac",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Zac",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 6 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Zed",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Zed",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 5 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Zeri",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Zeri",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 14 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Ziggs",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Ziggs",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 6 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Zilean",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Zilean",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 5 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Zoe",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Zoe",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 5 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    },
+    {
+      "champion": "Zyra",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 0,
+      "total": 0,
+      "url": "https://www.onetricks.gg/champions/ranking/Zyra",
+      "error": "Failed to perform, curl: (7) Failed to connect to www.onetricks.gg port 443 after 6 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     }
   ]
 }
