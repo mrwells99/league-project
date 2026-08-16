@@ -1,14 +1,14 @@
 {
-  "scraped_at": "2026-08-15T06:09:52.440327Z",
+  "scraped_at": "2026-08-16T06:09:46.064183Z",
   "season": "S2026_1",
   "total_champions": 170,
   "champions": [
     {
       "champion": "Yasuo",
       "challenger": 8,
-      "grandmaster": 12,
-      "master": 157,
-      "total": 177,
+      "grandmaster": 14,
+      "master": 156,
+      "total": 178,
       "url": "https://www.onetricks.gg/champions/ranking/Yasuo"
     },
     {
@@ -23,65 +23,65 @@
       "champion": "Ekko",
       "challenger": 5,
       "grandmaster": 11,
-      "master": 104,
-      "total": 120,
-      "url": "https://www.onetricks.gg/champions/ranking/Ekko"
-    },
-    {
-      "champion": "Zed",
-      "challenger": 3,
-      "grandmaster": 14,
-      "master": 100,
+      "master": 101,
       "total": 117,
-      "url": "https://www.onetricks.gg/champions/ranking/Zed"
-    },
-    {
-      "champion": "Shaco",
-      "challenger": 2,
-      "grandmaster": 10,
-      "master": 104,
-      "total": 116,
-      "url": "https://www.onetricks.gg/champions/ranking/Shaco"
+      "url": "https://www.onetricks.gg/champions/ranking/Ekko"
     },
     {
       "champion": "Talon",
       "challenger": 2,
-      "grandmaster": 13,
-      "master": 99,
-      "total": 114,
+      "grandmaster": 14,
+      "master": 100,
+      "total": 116,
       "url": "https://www.onetricks.gg/champions/ranking/Talon"
+    },
+    {
+      "champion": "Shaco",
+      "challenger": 3,
+      "grandmaster": 9,
+      "master": 103,
+      "total": 115,
+      "url": "https://www.onetricks.gg/champions/ranking/Shaco"
+    },
+    {
+      "champion": "Zed",
+      "challenger": 3,
+      "grandmaster": 16,
+      "master": 95,
+      "total": 114,
+      "url": "https://www.onetricks.gg/champions/ranking/Zed"
     },
     {
       "champion": "Gangplank",
       "challenger": 4,
       "grandmaster": 3,
-      "master": 98,
-      "total": 105,
+      "master": 99,
+      "total": 106,
       "url": "https://www.onetricks.gg/champions/ranking/Gangplank"
     },
     {
       "champion": "Singed",
       "challenger": 2,
-      "grandmaster": 6,
-      "master": 94,
+      "grandmaster": 5,
+      "master": 95,
       "total": 102,
       "url": "https://www.onetricks.gg/champions/ranking/Singed"
     },
     {
       "champion": "Vladimir",
-      "challenger": 3,
+      "challenger": 2,
       "grandmaster": 9,
-      "master": 89,
-      "total": 101,
+      "master": 87,
+      "total": 98,
       "url": "https://www.onetricks.gg/champions/ranking/Vladimir"
     },
     {
-      "champion": "Velkoz",
-      "challenger": 0,
+      "champion": "Anivia",
+      "challenger": 3,
       "grandmaster": 8,
-      "master": 92,
-      "total": 100,
-      "url": "https://www.onetricks.gg/champions/ranking/Velkoz"
+      "master": 86,
+      "total": 97,
+      "url": "https://www.onetricks.gg/champions/ranking/Anivia"
     },
     {
       "champion": "Thresh",
@@ -92,68 +92,76 @@
       "url": "https://www.onetricks.gg/champions/ranking/Thresh"
     },
     {
-      "champion": "Anivia",
-      "challenger": 3,
+      "champion": "Velkoz",
+      "challenger": 0,
       "grandmaster": 8,
-      "master": 83,
+      "master": 86,
       "total": 94,
-      "url": "https://www.onetricks.gg/champions/ranking/Anivia"
+      "url": "https://www.onetricks.gg/champions/ranking/Velkoz"
     },
     {
       "champion": "Riven",
       "challenger": 6,
       "grandmaster": 6,
-      "master": 78,
-      "total": 90,
+      "master": 76,
+      "total": 88,
       "url": "https://www.onetricks.gg/champions/ranking/Riven"
     },
     {
       "champion": "MasterYi",
       "challenger": 2,
       "grandmaster": 6,
-      "master": 78,
-      "total": 86,
+      "master": 79,
+      "total": 87,
       "url": "https://www.onetricks.gg/champions/ranking/MasterYi"
     },
     {
       "champion": "Shen",
       "challenger": 1,
       "grandmaster": 4,
-      "master": 80,
-      "total": 85,
+      "master": 79,
+      "total": 84,
       "url": "https://www.onetricks.gg/champions/ranking/Shen"
+    },
+    {
+      "champion": "Zilean",
+      "challenger": 2,
+      "grandmaster": 4,
+      "master": 75,
+      "total": 81,
+      "url": "https://www.onetricks.gg/champions/ranking/Zilean"
     },
     {
       "champion": "Darius",
       "challenger": 1,
       "grandmaster": 8,
-      "master": 75,
-      "total": 84,
+      "master": 71,
+      "total": 80,
       "url": "https://www.onetricks.gg/champions/ranking/Darius"
     },
     {
       "champion": "Hecarim",
       "challenger": 6,
       "grandmaster": 5,
-      "master": 68,
-      "total": 79,
+      "master": 67,
+      "total": 78,
       "url": "https://www.onetricks.gg/champions/ranking/Hecarim"
     },
     {
-      "champion": "Zilean",
+      "champion": "Nunu",
       "challenger": 2,
-      "grandmaster": 4,
-      "master": 71,
+      "grandmaster": 6,
+      "master": 69,
       "total": 77,
-      "url": "https://www.onetricks.gg/champions/ranking/Zilean"
+      "url": "https://www.onetricks.gg/champions/ranking/Nunu"
     },
     {
-      "champion": "RekSai",
-      "challenger": 2,
-      "grandmaster": 8,
-      "master": 66,
-      "total": 76,
-      "url": "https://www.onetricks.gg/champions/ranking/RekSai"
+      "champion": "Swain",
+      "challenger": 0,
+      "grandmaster": 6,
+      "master": 71,
+      "total": 77,
+      "url": "https://www.onetricks.gg/champions/ranking/Swain"
     },
     {
       "champion": "Zac",
@@ -164,108 +172,100 @@
       "url": "https://www.onetricks.gg/champions/ranking/Zac"
     },
     {
-      "champion": "Swain",
-      "challenger": 0,
-      "grandmaster": 6,
-      "master": 69,
-      "total": 75,
-      "url": "https://www.onetricks.gg/champions/ranking/Swain"
-    },
-    {
-      "champion": "Nunu",
+      "champion": "RekSai",
       "challenger": 2,
-      "grandmaster": 6,
-      "master": 66,
+      "grandmaster": 8,
+      "master": 64,
       "total": 74,
-      "url": "https://www.onetricks.gg/champions/ranking/Nunu"
+      "url": "https://www.onetricks.gg/champions/ranking/RekSai"
     },
     {
       "champion": "Qiyana",
       "challenger": 5,
       "grandmaster": 6,
-      "master": 59,
-      "total": 70,
+      "master": 60,
+      "total": 71,
       "url": "https://www.onetricks.gg/champions/ranking/Qiyana"
     },
     {
       "champion": "Ahri",
       "challenger": 3,
-      "grandmaster": 4,
+      "grandmaster": 5,
       "master": 62,
-      "total": 69,
+      "total": 70,
       "url": "https://www.onetricks.gg/champions/ranking/Ahri"
     },
     {
       "champion": "Zoe",
       "challenger": 5,
       "grandmaster": 9,
-      "master": 54,
-      "total": 68,
+      "master": 56,
+      "total": 70,
       "url": "https://www.onetricks.gg/champions/ranking/Zoe"
+    },
+    {
+      "champion": "Aatrox",
+      "challenger": 1,
+      "grandmaster": 5,
+      "master": 58,
+      "total": 64,
+      "url": "https://www.onetricks.gg/champions/ranking/Aatrox"
+    },
+    {
+      "champion": "Fiddlesticks",
+      "challenger": 1,
+      "grandmaster": 6,
+      "master": 57,
+      "total": 64,
+      "url": "https://www.onetricks.gg/champions/ranking/Fiddlesticks"
     },
     {
       "champion": "Rengar",
       "challenger": 5,
-      "grandmaster": 4,
-      "master": 58,
-      "total": 67,
+      "grandmaster": 3,
+      "master": 56,
+      "total": 64,
       "url": "https://www.onetricks.gg/champions/ranking/Rengar"
     },
     {
       "champion": "Akali",
       "challenger": 1,
       "grandmaster": 6,
-      "master": 59,
-      "total": 66,
+      "master": 56,
+      "total": 63,
       "url": "https://www.onetricks.gg/champions/ranking/Akali"
+    },
+    {
+      "champion": "Karthus",
+      "challenger": 3,
+      "grandmaster": 8,
+      "master": 52,
+      "total": 63,
+      "url": "https://www.onetricks.gg/champions/ranking/Karthus"
     },
     {
       "champion": "Khazix",
       "challenger": 2,
       "grandmaster": 2,
-      "master": 61,
-      "total": 65,
+      "master": 58,
+      "total": 62,
       "url": "https://www.onetricks.gg/champions/ranking/Khazix"
     },
     {
-      "champion": "Aatrox",
-      "challenger": 1,
-      "grandmaster": 4,
-      "master": 59,
-      "total": 64,
-      "url": "https://www.onetricks.gg/champions/ranking/Aatrox"
-    },
-    {
       "champion": "Yone",
-      "challenger": 2,
-      "grandmaster": 15,
-      "master": 47,
-      "total": 64,
+      "challenger": 3,
+      "grandmaster": 13,
+      "master": 46,
+      "total": 62,
       "url": "https://www.onetricks.gg/champions/ranking/Yone"
     },
     {
-      "champion": "Karthus",
-      "challenger": 3,
-      "grandmaster": 7,
-      "master": 53,
-      "total": 63,
-      "url": "https://www.onetricks.gg/champions/ranking/Karthus"
-    },
-    {
-      "champion": "Fiddlesticks",
-      "challenger": 1,
-      "grandmaster": 6,
-      "master": 55,
-      "total": 62,
-      "url": "https://www.onetricks.gg/champions/ranking/Fiddlesticks"
-    },
-    {
-      "champion": "Tryndamere",
+      "champion": "Fiora",
       "challenger": 2,
-      "grandmaster": 4,
-      "master": 55,
+      "grandmaster": 6,
+      "master": 53,
       "total": 61,
-      "url": "https://www.onetricks.gg/champions/ranking/Tryndamere"
+      "url": "https://www.onetricks.gg/champions/ranking/Fiora"
     },
     {
       "champion": "Bard",
@@ -276,36 +276,36 @@
       "url": "https://www.onetricks.gg/champions/ranking/Bard"
     },
     {
-      "champion": "Irelia",
+      "champion": "Pantheon",
       "challenger": 1,
-      "grandmaster": 1,
-      "master": 57,
-      "total": 59,
-      "url": "https://www.onetricks.gg/champions/ranking/Irelia"
+      "grandmaster": 4,
+      "master": 55,
+      "total": 60,
+      "url": "https://www.onetricks.gg/champions/ranking/Pantheon"
     },
     {
-      "champion": "Pantheon",
+      "champion": "Tryndamere",
       "challenger": 2,
-      "grandmaster": 2,
-      "master": 54,
-      "total": 58,
-      "url": "https://www.onetricks.gg/champions/ranking/Pantheon"
+      "grandmaster": 5,
+      "master": 53,
+      "total": 60,
+      "url": "https://www.onetricks.gg/champions/ranking/Tryndamere"
     },
     {
       "champion": "Urgot",
       "challenger": 2,
       "grandmaster": 2,
-      "master": 54,
-      "total": 58,
+      "master": 56,
+      "total": 60,
       "url": "https://www.onetricks.gg/champions/ranking/Urgot"
     },
     {
-      "champion": "Fiora",
-      "challenger": 2,
-      "grandmaster": 6,
-      "master": 49,
-      "total": 57,
-      "url": "https://www.onetricks.gg/champions/ranking/Fiora"
+      "champion": "Irelia",
+      "challenger": 1,
+      "grandmaster": 1,
+      "master": 56,
+      "total": 58,
+      "url": "https://www.onetricks.gg/champions/ranking/Irelia"
     },
     {
       "champion": "Fizz",
@@ -319,41 +319,41 @@
       "champion": "Warwick",
       "challenger": 0,
       "grandmaster": 0,
-      "master": 56,
-      "total": 56,
+      "master": 57,
+      "total": 57,
       "url": "https://www.onetricks.gg/champions/ranking/Warwick"
     },
     {
-      "champion": "Cassiopeia",
-      "challenger": 5,
+      "champion": "AurelionSol",
+      "challenger": 4,
       "grandmaster": 4,
-      "master": 45,
-      "total": 54,
-      "url": "https://www.onetricks.gg/champions/ranking/Cassiopeia"
+      "master": 48,
+      "total": 56,
+      "url": "https://www.onetricks.gg/champions/ranking/AurelionSol"
     },
     {
       "champion": "Jhin",
       "challenger": 0,
       "grandmaster": 8,
-      "master": 46,
-      "total": 54,
+      "master": 47,
+      "total": 55,
       "url": "https://www.onetricks.gg/champions/ranking/Jhin"
     },
     {
-      "champion": "Taliyah",
-      "challenger": 1,
-      "grandmaster": 7,
+      "champion": "Cassiopeia",
+      "challenger": 5,
+      "grandmaster": 3,
       "master": 46,
       "total": 54,
-      "url": "https://www.onetricks.gg/champions/ranking/Taliyah"
+      "url": "https://www.onetricks.gg/champions/ranking/Cassiopeia"
     },
     {
-      "champion": "Teemo",
+      "champion": "Udyr",
       "challenger": 1,
       "grandmaster": 3,
       "master": 50,
       "total": 54,
-      "url": "https://www.onetricks.gg/champions/ranking/Teemo"
+      "url": "https://www.onetricks.gg/champions/ranking/Udyr"
     },
     {
       "champion": "Viego",
@@ -372,76 +372,76 @@
       "url": "https://www.onetricks.gg/champions/ranking/Heimerdinger"
     },
     {
-      "champion": "AurelionSol",
-      "challenger": 4,
-      "grandmaster": 4,
-      "master": 44,
+      "champion": "Kayn",
+      "challenger": 1,
+      "grandmaster": 3,
+      "master": 48,
       "total": 52,
-      "url": "https://www.onetricks.gg/champions/ranking/AurelionSol"
+      "url": "https://www.onetricks.gg/champions/ranking/Kayn"
+    },
+    {
+      "champion": "Taliyah",
+      "challenger": 1,
+      "grandmaster": 6,
+      "master": 45,
+      "total": 52,
+      "url": "https://www.onetricks.gg/champions/ranking/Taliyah"
     },
     {
       "champion": "Briar",
       "challenger": 0,
-      "grandmaster": 2,
-      "master": 50,
-      "total": 52,
+      "grandmaster": 3,
+      "master": 48,
+      "total": 51,
       "url": "https://www.onetricks.gg/champions/ranking/Briar"
     },
     {
       "champion": "Olaf",
       "challenger": 1,
       "grandmaster": 2,
-      "master": 49,
-      "total": 52,
+      "master": 48,
+      "total": 51,
       "url": "https://www.onetricks.gg/champions/ranking/Olaf"
     },
     {
-      "champion": "Udyr",
+      "champion": "Teemo",
       "challenger": 1,
-      "grandmaster": 3,
-      "master": 48,
-      "total": 52,
-      "url": "https://www.onetricks.gg/champions/ranking/Udyr"
-    },
-    {
-      "champion": "Kayn",
-      "challenger": 1,
-      "grandmaster": 3,
-      "master": 47,
+      "grandmaster": 4,
+      "master": 46,
       "total": 51,
-      "url": "https://www.onetricks.gg/champions/ranking/Kayn"
+      "url": "https://www.onetricks.gg/champions/ranking/Teemo"
     },
     {
       "champion": "Kindred",
       "challenger": 2,
       "grandmaster": 4,
-      "master": 42,
-      "total": 48,
+      "master": 43,
+      "total": 49,
       "url": "https://www.onetricks.gg/champions/ranking/Kindred"
-    },
-    {
-      "champion": "Pyke",
-      "challenger": 1,
-      "grandmaster": 2,
-      "master": 45,
-      "total": 48,
-      "url": "https://www.onetricks.gg/champions/ranking/Pyke"
     },
     {
       "champion": "Syndra",
       "challenger": 4,
       "grandmaster": 6,
-      "master": 38,
-      "total": 48,
+      "master": 39,
+      "total": 49,
       "url": "https://www.onetricks.gg/champions/ranking/Syndra"
     },
     {
-      "champion": "Garen",
+      "champion": "KSante",
       "challenger": 0,
-      "grandmaster": 5,
-      "master": 42,
-      "total": 47,
-      "url": "https://www.onetricks.gg/champions/ranking/Garen"
+      "grandmaster": 7,
+      "master": 41,
+      "total": 48,
+      "url": "https://www.onetricks.gg/champions/ranking/KSante"
+    },
+    {
+      "champion": "TwistedFate",
+      "challenger": 2,
+      "grandmaster": 2,
+      "master": 44,
+      "total": 48,
+      "url": "https://www.onetricks.gg/champions/ranking/TwistedFate"
     },
     {
       "champion": "Ornn",
@@ -452,60 +452,44 @@
       "url": "https://www.onetricks.gg/champions/ranking/Ornn"
     },
     {
-      "champion": "Diana",
-      "challenger": 0,
-      "grandmaster": 1,
-      "master": 44,
-      "total": 45,
-      "url": "https://www.onetricks.gg/champions/ranking/Diana"
-    },
-    {
-      "champion": "Galio",
-      "challenger": 2,
-      "grandmaster": 2,
-      "master": 41,
-      "total": 45,
-      "url": "https://www.onetricks.gg/champions/ranking/Galio"
-    },
-    {
-      "champion": "KSante",
-      "challenger": 0,
-      "grandmaster": 7,
-      "master": 38,
-      "total": 45,
-      "url": "https://www.onetricks.gg/champions/ranking/KSante"
-    },
-    {
-      "champion": "TwistedFate",
-      "challenger": 2,
-      "grandmaster": 3,
-      "master": 40,
-      "total": 45,
-      "url": "https://www.onetricks.gg/champions/ranking/TwistedFate"
-    },
-    {
-      "champion": "Veigar",
+      "champion": "Pyke",
       "challenger": 1,
-      "grandmaster": 1,
-      "master": 43,
-      "total": 45,
-      "url": "https://www.onetricks.gg/champions/ranking/Veigar"
+      "grandmaster": 2,
+      "master": 44,
+      "total": 47,
+      "url": "https://www.onetricks.gg/champions/ranking/Pyke"
     },
     {
       "champion": "Akshan",
       "challenger": 2,
-      "grandmaster": 4,
-      "master": 38,
-      "total": 44,
+      "grandmaster": 3,
+      "master": 40,
+      "total": 45,
       "url": "https://www.onetricks.gg/champions/ranking/Akshan"
     },
     {
       "champion": "Aphelios",
       "challenger": 0,
       "grandmaster": 3,
-      "master": 41,
-      "total": 44,
+      "master": 42,
+      "total": 45,
       "url": "https://www.onetricks.gg/champions/ranking/Aphelios"
+    },
+    {
+      "champion": "Garen",
+      "challenger": 1,
+      "grandmaster": 3,
+      "master": 41,
+      "total": 45,
+      "url": "https://www.onetricks.gg/champions/ranking/Garen"
+    },
+    {
+      "champion": "Veigar",
+      "challenger": 1,
+      "grandmaster": 2,
+      "master": 42,
+      "total": 45,
+      "url": "https://www.onetricks.gg/champions/ranking/Veigar"
     },
     {
       "champion": "Belveth",
@@ -516,6 +500,22 @@
       "url": "https://www.onetricks.gg/champions/ranking/Belveth"
     },
     {
+      "champion": "Diana",
+      "challenger": 0,
+      "grandmaster": 1,
+      "master": 43,
+      "total": 44,
+      "url": "https://www.onetricks.gg/champions/ranking/Diana"
+    },
+    {
+      "champion": "Galio",
+      "challenger": 2,
+      "grandmaster": 2,
+      "master": 40,
+      "total": 44,
+      "url": "https://www.onetricks.gg/champions/ranking/Galio"
+    },
+    {
       "champion": "Lux",
       "challenger": 2,
       "grandmaster": 1,
@@ -524,36 +524,52 @@
       "url": "https://www.onetricks.gg/champions/ranking/Lux"
     },
     {
-      "champion": "Xerath",
-      "challenger": 4,
-      "grandmaster": 3,
-      "master": 36,
+      "champion": "Draven",
+      "challenger": 0,
+      "grandmaster": 4,
+      "master": 39,
       "total": 43,
-      "url": "https://www.onetricks.gg/champions/ranking/Xerath"
-    },
-    {
-      "champion": "Ivern",
-      "challenger": 3,
-      "grandmaster": 6,
-      "master": 33,
-      "total": 42,
-      "url": "https://www.onetricks.gg/champions/ranking/Ivern"
+      "url": "https://www.onetricks.gg/champions/ranking/Draven"
     },
     {
       "champion": "Zyra",
       "challenger": 0,
       "grandmaster": 2,
-      "master": 40,
-      "total": 42,
+      "master": 41,
+      "total": 43,
       "url": "https://www.onetricks.gg/champions/ranking/Zyra"
     },
     {
-      "champion": "Draven",
+      "champion": "Evelynn",
+      "challenger": 0,
+      "grandmaster": 2,
+      "master": 40,
+      "total": 42,
+      "url": "https://www.onetricks.gg/champions/ranking/Evelynn"
+    },
+    {
+      "champion": "Gragas",
       "challenger": 0,
       "grandmaster": 3,
-      "master": 38,
-      "total": 41,
-      "url": "https://www.onetricks.gg/champions/ranking/Draven"
+      "master": 39,
+      "total": 42,
+      "url": "https://www.onetricks.gg/champions/ranking/Gragas"
+    },
+    {
+      "champion": "Ivern",
+      "challenger": 3,
+      "grandmaster": 4,
+      "master": 35,
+      "total": 42,
+      "url": "https://www.onetricks.gg/champions/ranking/Ivern"
+    },
+    {
+      "champion": "Xerath",
+      "challenger": 4,
+      "grandmaster": 3,
+      "master": 35,
+      "total": 42,
+      "url": "https://www.onetricks.gg/champions/ranking/Xerath"
     },
     {
       "champion": "Elise",
@@ -564,60 +580,36 @@
       "url": "https://www.onetricks.gg/champions/ranking/Elise"
     },
     {
-      "champion": "Sona",
+      "champion": "LeeSin",
       "challenger": 0,
-      "grandmaster": 2,
-      "master": 39,
-      "total": 41,
-      "url": "https://www.onetricks.gg/champions/ranking/Sona"
-    },
-    {
-      "champion": "Gragas",
-      "challenger": 1,
-      "grandmaster": 2,
-      "master": 37,
-      "total": 40,
-      "url": "https://www.onetricks.gg/champions/ranking/Gragas"
-    },
-    {
-      "champion": "Evelynn",
-      "challenger": 0,
-      "grandmaster": 2,
-      "master": 37,
+      "grandmaster": 1,
+      "master": 38,
       "total": 39,
-      "url": "https://www.onetricks.gg/champions/ranking/Evelynn"
+      "url": "https://www.onetricks.gg/champions/ranking/LeeSin"
     },
     {
       "champion": "Nidalee",
       "challenger": 2,
-      "grandmaster": 8,
-      "master": 29,
+      "grandmaster": 9,
+      "master": 28,
       "total": 39,
       "url": "https://www.onetricks.gg/champions/ranking/Nidalee"
     },
     {
-      "champion": "LeeSin",
+      "champion": "Sona",
       "challenger": 0,
-      "grandmaster": 1,
+      "grandmaster": 2,
       "master": 37,
-      "total": 38,
-      "url": "https://www.onetricks.gg/champions/ranking/LeeSin"
+      "total": 39,
+      "url": "https://www.onetricks.gg/champions/ranking/Sona"
     },
     {
       "champion": "Janna",
-      "challenger": 2,
-      "grandmaster": 1,
-      "master": 34,
-      "total": 37,
-      "url": "https://www.onetricks.gg/champions/ranking/Janna"
-    },
-    {
-      "champion": "Kled",
-      "challenger": 2,
+      "challenger": 1,
       "grandmaster": 2,
-      "master": 33,
-      "total": 37,
-      "url": "https://www.onetricks.gg/champions/ranking/Kled"
+      "master": 35,
+      "total": 38,
+      "url": "https://www.onetricks.gg/champions/ranking/Janna"
     },
     {
       "champion": "Quinn",
@@ -628,10 +620,18 @@
       "url": "https://www.onetricks.gg/champions/ranking/Quinn"
     },
     {
+      "champion": "Jax",
+      "challenger": 1,
+      "grandmaster": 3,
+      "master": 31,
+      "total": 35,
+      "url": "https://www.onetricks.gg/champions/ranking/Jax"
+    },
+    {
       "champion": "Kassadin",
       "challenger": 1,
-      "grandmaster": 2,
-      "master": 32,
+      "grandmaster": 3,
+      "master": 31,
       "total": 35,
       "url": "https://www.onetricks.gg/champions/ranking/Kassadin"
     },
@@ -639,9 +639,17 @@
       "champion": "Nami",
       "challenger": 2,
       "grandmaster": 0,
-      "master": 32,
-      "total": 34,
+      "master": 33,
+      "total": 35,
       "url": "https://www.onetricks.gg/champions/ranking/Nami"
+    },
+    {
+      "champion": "Kled",
+      "challenger": 1,
+      "grandmaster": 3,
+      "master": 30,
+      "total": 34,
+      "url": "https://www.onetricks.gg/champions/ranking/Kled"
     },
     {
       "champion": "Senna",
@@ -652,6 +660,14 @@
       "url": "https://www.onetricks.gg/champions/ranking/Senna"
     },
     {
+      "champion": "Taric",
+      "challenger": 0,
+      "grandmaster": 8,
+      "master": 26,
+      "total": 34,
+      "url": "https://www.onetricks.gg/champions/ranking/Taric"
+    },
+    {
       "champion": "Camille",
       "challenger": 1,
       "grandmaster": 4,
@@ -660,52 +676,44 @@
       "url": "https://www.onetricks.gg/champions/ranking/Camille"
     },
     {
-      "champion": "Jax",
-      "challenger": 1,
-      "grandmaster": 3,
-      "master": 29,
+      "champion": "Illaoi",
+      "challenger": 0,
+      "grandmaster": 2,
+      "master": 31,
       "total": 33,
-      "url": "https://www.onetricks.gg/champions/ranking/Jax"
+      "url": "https://www.onetricks.gg/champions/ranking/Illaoi"
     },
     {
       "champion": "Gwen",
-      "challenger": 1,
-      "grandmaster": 2,
+      "challenger": 0,
+      "grandmaster": 3,
       "master": 29,
       "total": 32,
       "url": "https://www.onetricks.gg/champions/ranking/Gwen"
     },
     {
+      "champion": "Sett",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 32,
+      "total": 32,
+      "url": "https://www.onetricks.gg/champions/ranking/Sett"
+    },
+    {
       "champion": "Hwei",
       "challenger": 1,
       "grandmaster": 4,
-      "master": 27,
-      "total": 32,
+      "master": 26,
+      "total": 31,
       "url": "https://www.onetricks.gg/champions/ranking/Hwei"
     },
     {
-      "champion": "Illaoi",
+      "champion": "Jinx",
       "challenger": 0,
       "grandmaster": 2,
-      "master": 30,
-      "total": 32,
-      "url": "https://www.onetricks.gg/champions/ranking/Illaoi"
-    },
-    {
-      "champion": "Taric",
-      "challenger": 1,
-      "grandmaster": 6,
-      "master": 25,
-      "total": 32,
-      "url": "https://www.onetricks.gg/champions/ranking/Taric"
-    },
-    {
-      "champion": "Azir",
-      "challenger": 3,
-      "grandmaster": 0,
-      "master": 28,
+      "master": 29,
       "total": 31,
-      "url": "https://www.onetricks.gg/champions/ranking/Azir"
+      "url": "https://www.onetricks.gg/champions/ranking/Jinx"
     },
     {
       "champion": "Lissandra",
@@ -716,68 +724,52 @@
       "url": "https://www.onetricks.gg/champions/ranking/Lissandra"
     },
     {
-      "champion": "Gnar",
-      "challenger": 0,
+      "champion": "Azir",
+      "challenger": 3,
       "grandmaster": 0,
-      "master": 30,
+      "master": 27,
       "total": 30,
-      "url": "https://www.onetricks.gg/champions/ranking/Gnar"
-    },
-    {
-      "champion": "Jinx",
-      "challenger": 1,
-      "grandmaster": 1,
-      "master": 28,
-      "total": 30,
-      "url": "https://www.onetricks.gg/champions/ranking/Jinx"
-    },
-    {
-      "champion": "Rell",
-      "challenger": 0,
-      "grandmaster": 6,
-      "master": 24,
-      "total": 30,
-      "url": "https://www.onetricks.gg/champions/ranking/Rell"
-    },
-    {
-      "champion": "Leona",
-      "challenger": 0,
-      "grandmaster": 0,
-      "master": 29,
-      "total": 29,
-      "url": "https://www.onetricks.gg/champions/ranking/Leona"
-    },
-    {
-      "champion": "Sett",
-      "challenger": 0,
-      "grandmaster": 1,
-      "master": 28,
-      "total": 29,
-      "url": "https://www.onetricks.gg/champions/ranking/Sett"
+      "url": "https://www.onetricks.gg/champions/ranking/Azir"
     },
     {
       "champion": "Soraka",
       "challenger": 1,
       "grandmaster": 1,
-      "master": 27,
-      "total": 29,
+      "master": 28,
+      "total": 30,
       "url": "https://www.onetricks.gg/champions/ranking/Soraka"
     },
     {
       "champion": "Twitch",
       "challenger": 1,
       "grandmaster": 2,
-      "master": 26,
-      "total": 29,
+      "master": 27,
+      "total": 30,
       "url": "https://www.onetricks.gg/champions/ranking/Twitch"
     },
     {
       "champion": "Chogath",
       "challenger": 0,
-      "grandmaster": 7,
-      "master": 21,
-      "total": 28,
+      "grandmaster": 6,
+      "master": 23,
+      "total": 29,
       "url": "https://www.onetricks.gg/champions/ranking/Chogath"
+    },
+    {
+      "champion": "Rell",
+      "challenger": 0,
+      "grandmaster": 6,
+      "master": 23,
+      "total": 29,
+      "url": "https://www.onetricks.gg/champions/ranking/Rell"
+    },
+    {
+      "champion": "Gnar",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 28,
+      "total": 28,
+      "url": "https://www.onetricks.gg/champions/ranking/Gnar"
     },
     {
       "champion": "Poppy",
@@ -788,14 +780,6 @@
       "url": "https://www.onetricks.gg/champions/ranking/Poppy"
     },
     {
-      "champion": "Seraphine",
-      "challenger": 0,
-      "grandmaster": 4,
-      "master": 24,
-      "total": 28,
-      "url": "https://www.onetricks.gg/champions/ranking/Seraphine"
-    },
-    {
       "champion": "TahmKench",
       "challenger": 0,
       "grandmaster": 0,
@@ -804,20 +788,12 @@
       "url": "https://www.onetricks.gg/champions/ranking/TahmKench"
     },
     {
-      "champion": "Kennen",
+      "champion": "Leona",
       "challenger": 0,
-      "grandmaster": 4,
-      "master": 23,
+      "grandmaster": 0,
+      "master": 27,
       "total": 27,
-      "url": "https://www.onetricks.gg/champions/ranking/Kennen"
-    },
-    {
-      "champion": "Leblanc",
-      "challenger": 1,
-      "grandmaster": 5,
-      "master": 21,
-      "total": 27,
-      "url": "https://www.onetricks.gg/champions/ranking/Leblanc"
+      "url": "https://www.onetricks.gg/champions/ranking/Leona"
     },
     {
       "champion": "Lulu",
@@ -828,6 +804,30 @@
       "url": "https://www.onetricks.gg/champions/ranking/Lulu"
     },
     {
+      "champion": "Seraphine",
+      "challenger": 0,
+      "grandmaster": 3,
+      "master": 24,
+      "total": 27,
+      "url": "https://www.onetricks.gg/champions/ranking/Seraphine"
+    },
+    {
+      "champion": "Vayne",
+      "challenger": 0,
+      "grandmaster": 1,
+      "master": 26,
+      "total": 27,
+      "url": "https://www.onetricks.gg/champions/ranking/Vayne"
+    },
+    {
+      "champion": "Jayce",
+      "challenger": 1,
+      "grandmaster": 2,
+      "master": 23,
+      "total": 26,
+      "url": "https://www.onetricks.gg/champions/ranking/Jayce"
+    },
+    {
       "champion": "Karma",
       "challenger": 0,
       "grandmaster": 1,
@@ -836,20 +836,44 @@
       "url": "https://www.onetricks.gg/champions/ranking/Karma"
     },
     {
+      "champion": "Kennen",
+      "challenger": 0,
+      "grandmaster": 3,
+      "master": 23,
+      "total": 26,
+      "url": "https://www.onetricks.gg/champions/ranking/Kennen"
+    },
+    {
+      "champion": "Leblanc",
+      "challenger": 1,
+      "grandmaster": 4,
+      "master": 21,
+      "total": 26,
+      "url": "https://www.onetricks.gg/champions/ranking/Leblanc"
+    },
+    {
+      "champion": "Malzahar",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 26,
+      "total": 26,
+      "url": "https://www.onetricks.gg/champions/ranking/Malzahar"
+    },
+    {
+      "champion": "Mordekaiser",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 26,
+      "total": 26,
+      "url": "https://www.onetricks.gg/champions/ranking/Mordekaiser"
+    },
+    {
       "champion": "Rumble",
       "challenger": 1,
       "grandmaster": 0,
       "master": 25,
       "total": 26,
       "url": "https://www.onetricks.gg/champions/ranking/Rumble"
-    },
-    {
-      "champion": "Vayne",
-      "challenger": 0,
-      "grandmaster": 1,
-      "master": 25,
-      "total": 26,
-      "url": "https://www.onetricks.gg/champions/ranking/Vayne"
     },
     {
       "champion": "DrMundo",
@@ -868,22 +892,6 @@
       "url": "https://www.onetricks.gg/champions/ranking/Kalista"
     },
     {
-      "champion": "Malzahar",
-      "challenger": 0,
-      "grandmaster": 0,
-      "master": 25,
-      "total": 25,
-      "url": "https://www.onetricks.gg/champions/ranking/Malzahar"
-    },
-    {
-      "champion": "Mordekaiser",
-      "challenger": 0,
-      "grandmaster": 0,
-      "master": 25,
-      "total": 25,
-      "url": "https://www.onetricks.gg/champions/ranking/Mordekaiser"
-    },
-    {
       "champion": "Sion",
       "challenger": 0,
       "grandmaster": 1,
@@ -900,14 +908,6 @@
       "url": "https://www.onetricks.gg/champions/ranking/Caitlyn"
     },
     {
-      "champion": "Jayce",
-      "challenger": 1,
-      "grandmaster": 2,
-      "master": 21,
-      "total": 24,
-      "url": "https://www.onetricks.gg/champions/ranking/Jayce"
-    },
-    {
       "champion": "Kayle",
       "challenger": 0,
       "grandmaster": 1,
@@ -916,20 +916,20 @@
       "url": "https://www.onetricks.gg/champions/ranking/Kayle"
     },
     {
+      "champion": "Renekton",
+      "challenger": 0,
+      "grandmaster": 1,
+      "master": 23,
+      "total": 24,
+      "url": "https://www.onetricks.gg/champions/ranking/Renekton"
+    },
+    {
       "champion": "KogMaw",
       "challenger": 2,
       "grandmaster": 3,
-      "master": 19,
-      "total": 24,
+      "master": 18,
+      "total": 23,
       "url": "https://www.onetricks.gg/champions/ranking/KogMaw"
-    },
-    {
-      "champion": "Viktor",
-      "challenger": 1,
-      "grandmaster": 3,
-      "master": 20,
-      "total": 24,
-      "url": "https://www.onetricks.gg/champions/ranking/Viktor"
     },
     {
       "champion": "Nautilus",
@@ -940,18 +940,10 @@
       "url": "https://www.onetricks.gg/champions/ranking/Nautilus"
     },
     {
-      "champion": "Renekton",
-      "challenger": 0,
-      "grandmaster": 1,
-      "master": 22,
-      "total": 23,
-      "url": "https://www.onetricks.gg/champions/ranking/Renekton"
-    },
-    {
       "champion": "Neeko",
       "challenger": 0,
-      "grandmaster": 2,
-      "master": 20,
+      "grandmaster": 3,
+      "master": 19,
       "total": 22,
       "url": "https://www.onetricks.gg/champions/ranking/Neeko"
     },
@@ -966,8 +958,8 @@
     {
       "champion": "Tristana",
       "challenger": 0,
-      "grandmaster": 2,
-      "master": 20,
+      "grandmaster": 4,
+      "master": 18,
       "total": 22,
       "url": "https://www.onetricks.gg/champions/ranking/Tristana"
     },
@@ -988,6 +980,22 @@
       "url": "https://www.onetricks.gg/champions/ranking/Ambessa"
     },
     {
+      "champion": "Annie",
+      "challenger": 2,
+      "grandmaster": 3,
+      "master": 16,
+      "total": 21,
+      "url": "https://www.onetricks.gg/champions/ranking/Annie"
+    },
+    {
+      "champion": "Nocturne",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 21,
+      "total": 21,
+      "url": "https://www.onetricks.gg/champions/ranking/Nocturne"
+    },
+    {
       "champion": "Skarner",
       "challenger": 2,
       "grandmaster": 5,
@@ -996,12 +1004,12 @@
       "url": "https://www.onetricks.gg/champions/ranking/Skarner"
     },
     {
-      "champion": "Volibear",
-      "challenger": 0,
+      "champion": "Viktor",
+      "challenger": 1,
       "grandmaster": 3,
-      "master": 18,
+      "master": 17,
       "total": 21,
-      "url": "https://www.onetricks.gg/champions/ranking/Volibear"
+      "url": "https://www.onetricks.gg/champions/ranking/Viktor"
     },
     {
       "champion": "Alistar",
@@ -1012,36 +1020,20 @@
       "url": "https://www.onetricks.gg/champions/ranking/Alistar"
     },
     {
-      "champion": "Annie",
-      "challenger": 2,
-      "grandmaster": 3,
-      "master": 15,
-      "total": 20,
-      "url": "https://www.onetricks.gg/champions/ranking/Annie"
-    },
-    {
       "champion": "Nasus",
       "challenger": 2,
-      "grandmaster": 1,
-      "master": 17,
+      "grandmaster": 2,
+      "master": 16,
       "total": 20,
       "url": "https://www.onetricks.gg/champions/ranking/Nasus"
     },
     {
-      "champion": "Nocturne",
-      "challenger": 0,
-      "grandmaster": 0,
-      "master": 20,
-      "total": 20,
-      "url": "https://www.onetricks.gg/champions/ranking/Nocturne"
-    },
-    {
-      "champion": "Rakan",
-      "challenger": 1,
+      "champion": "Sylas",
+      "challenger": 3,
       "grandmaster": 3,
-      "master": 16,
+      "master": 14,
       "total": 20,
-      "url": "https://www.onetricks.gg/champions/ranking/Rakan"
+      "url": "https://www.onetricks.gg/champions/ranking/Sylas"
     },
     {
       "champion": "Zeri",
@@ -1052,35 +1044,43 @@
       "url": "https://www.onetricks.gg/champions/ranking/Zeri"
     },
     {
+      "champion": "Blitzcrank",
+      "challenger": 0,
+      "grandmaster": 1,
+      "master": 18,
+      "total": 19,
+      "url": "https://www.onetricks.gg/champions/ranking/Blitzcrank"
+    },
+    {
+      "champion": "Rakan",
+      "challenger": 1,
+      "grandmaster": 4,
+      "master": 14,
+      "total": 19,
+      "url": "https://www.onetricks.gg/champions/ranking/Rakan"
+    },
+    {
+      "champion": "Volibear",
+      "challenger": 0,
+      "grandmaster": 3,
+      "master": 16,
+      "total": 19,
+      "url": "https://www.onetricks.gg/champions/ranking/Volibear"
+    },
+    {
       "champion": "Ezreal",
       "challenger": 1,
       "grandmaster": 1,
-      "master": 17,
-      "total": 19,
-      "url": "https://www.onetricks.gg/champions/ranking/Ezreal"
-    },
-    {
-      "champion": "Sylas",
-      "challenger": 4,
-      "grandmaster": 2,
-      "master": 13,
-      "total": 19,
-      "url": "https://www.onetricks.gg/champions/ranking/Sylas"
-    },
-    {
-      "champion": "Blitzcrank",
-      "challenger": 0,
-      "grandmaster": 0,
-      "master": 18,
+      "master": 16,
       "total": 18,
-      "url": "https://www.onetricks.gg/champions/ranking/Blitzcrank"
+      "url": "https://www.onetricks.gg/champions/ranking/Ezreal"
     },
     {
       "champion": "Brand",
       "challenger": 2,
       "grandmaster": 1,
-      "master": 15,
-      "total": 18,
+      "master": 14,
+      "total": 17,
       "url": "https://www.onetricks.gg/champions/ranking/Brand"
     },
     {
@@ -1092,52 +1092,76 @@
       "url": "https://www.onetricks.gg/champions/ranking/Maokai"
     },
     {
-      "champion": "JarvanIV",
+      "champion": "Rammus",
+      "challenger": 1,
+      "grandmaster": 0,
+      "master": 16,
+      "total": 17,
+      "url": "https://www.onetricks.gg/champions/ranking/Rammus"
+    },
+    {
+      "champion": "Yuumi",
       "challenger": 0,
-      "grandmaster": 2,
-      "master": 14,
-      "total": 16,
-      "url": "https://www.onetricks.gg/champions/ranking/JarvanIV"
+      "grandmaster": 1,
+      "master": 16,
+      "total": 17,
+      "url": "https://www.onetricks.gg/champions/ranking/Yuumi"
     },
     {
       "champion": "Naafiri",
-      "challenger": 0,
-      "grandmaster": 1,
+      "challenger": 1,
+      "grandmaster": 0,
       "master": 15,
       "total": 16,
       "url": "https://www.onetricks.gg/champions/ranking/Naafiri"
     },
     {
-      "champion": "Shyvana",
+      "champion": "Xayah",
       "challenger": 0,
-      "grandmaster": 4,
-      "master": 11,
+      "grandmaster": 3,
+      "master": 13,
+      "total": 16,
+      "url": "https://www.onetricks.gg/champions/ranking/Xayah"
+    },
+    {
+      "champion": "JarvanIV",
+      "challenger": 0,
+      "grandmaster": 2,
+      "master": 13,
+      "total": 15,
+      "url": "https://www.onetricks.gg/champions/ranking/JarvanIV"
+    },
+    {
+      "champion": "Shyvana",
+      "challenger": 1,
+      "grandmaster": 2,
+      "master": 12,
       "total": 15,
       "url": "https://www.onetricks.gg/champions/ranking/Shyvana"
     },
     {
-      "champion": "Xayah",
+      "champion": "Vi",
       "challenger": 0,
-      "grandmaster": 3,
-      "master": 12,
-      "total": 15,
-      "url": "https://www.onetricks.gg/champions/ranking/Xayah"
-    },
-    {
-      "champion": "Ziggs",
-      "challenger": 0,
-      "grandmaster": 1,
-      "master": 14,
-      "total": 15,
-      "url": "https://www.onetricks.gg/champions/ranking/Ziggs"
-    },
-    {
-      "champion": "Rammus",
-      "challenger": 1,
       "grandmaster": 0,
-      "master": 13,
+      "master": 15,
+      "total": 15,
+      "url": "https://www.onetricks.gg/champions/ranking/Vi"
+    },
+    {
+      "champion": "Graves",
+      "challenger": 1,
+      "grandmaster": 3,
+      "master": 10,
       "total": 14,
-      "url": "https://www.onetricks.gg/champions/ranking/Rammus"
+      "url": "https://www.onetricks.gg/champions/ranking/Graves"
+    },
+    {
+      "champion": "Orianna",
+      "challenger": 1,
+      "grandmaster": 2,
+      "master": 11,
+      "total": 14,
+      "url": "https://www.onetricks.gg/champions/ranking/Orianna"
     },
     {
       "champion": "Sejuani",
@@ -1148,28 +1172,12 @@
       "url": "https://www.onetricks.gg/champions/ranking/Sejuani"
     },
     {
-      "champion": "Vi",
-      "challenger": 0,
-      "grandmaster": 0,
-      "master": 14,
-      "total": 14,
-      "url": "https://www.onetricks.gg/champions/ranking/Vi"
-    },
-    {
-      "champion": "Yuumi",
+      "champion": "Ziggs",
       "challenger": 0,
       "grandmaster": 1,
       "master": 13,
       "total": 14,
-      "url": "https://www.onetricks.gg/champions/ranking/Yuumi"
-    },
-    {
-      "champion": "Graves",
-      "challenger": 1,
-      "grandmaster": 3,
-      "master": 9,
-      "total": 13,
-      "url": "https://www.onetricks.gg/champions/ranking/Graves"
+      "url": "https://www.onetricks.gg/champions/ranking/Ziggs"
     },
     {
       "champion": "MissFortune",
@@ -1180,12 +1188,12 @@
       "url": "https://www.onetricks.gg/champions/ranking/MissFortune"
     },
     {
-      "champion": "Orianna",
-      "challenger": 1,
-      "grandmaster": 2,
-      "master": 10,
+      "champion": "Nilah",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 13,
       "total": 13,
-      "url": "https://www.onetricks.gg/champions/ranking/Orianna"
+      "url": "https://www.onetricks.gg/champions/ranking/Nilah"
     },
     {
       "champion": "Trundle",
@@ -1196,20 +1204,28 @@
       "url": "https://www.onetricks.gg/champions/ranking/Trundle"
     },
     {
+      "champion": "Amumu",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 12,
+      "total": 12,
+      "url": "https://www.onetricks.gg/champions/ranking/Amumu"
+    },
+    {
+      "champion": "Kaisa",
+      "challenger": 0,
+      "grandmaster": 1,
+      "master": 11,
+      "total": 12,
+      "url": "https://www.onetricks.gg/champions/ranking/Kaisa"
+    },
+    {
       "champion": "Morgana",
       "challenger": 0,
       "grandmaster": 0,
       "master": 12,
       "total": 12,
       "url": "https://www.onetricks.gg/champions/ranking/Morgana"
-    },
-    {
-      "champion": "Nilah",
-      "challenger": 0,
-      "grandmaster": 0,
-      "master": 12,
-      "total": 12,
-      "url": "https://www.onetricks.gg/champions/ranking/Nilah"
     },
     {
       "champion": "Ryze",
@@ -1223,17 +1239,9 @@
       "champion": "XinZhao",
       "challenger": 0,
       "grandmaster": 1,
-      "master": 11,
-      "total": 12,
-      "url": "https://www.onetricks.gg/champions/ranking/XinZhao"
-    },
-    {
-      "champion": "Amumu",
-      "challenger": 0,
-      "grandmaster": 0,
-      "master": 11,
+      "master": 10,
       "total": 11,
-      "url": "https://www.onetricks.gg/champions/ranking/Amumu"
+      "url": "https://www.onetricks.gg/champions/ranking/XinZhao"
     },
     {
       "champion": "Aurora",
@@ -1244,22 +1252,6 @@
       "url": "https://www.onetricks.gg/champions/ranking/Aurora"
     },
     {
-      "champion": "Lucian",
-      "challenger": 0,
-      "grandmaster": 1,
-      "master": 9,
-      "total": 10,
-      "url": "https://www.onetricks.gg/champions/ranking/Lucian"
-    },
-    {
-      "champion": "Varus",
-      "challenger": 0,
-      "grandmaster": 1,
-      "master": 9,
-      "total": 10,
-      "url": "https://www.onetricks.gg/champions/ranking/Varus"
-    },
-    {
       "champion": "Vex",
       "challenger": 0,
       "grandmaster": 1,
@@ -1268,12 +1260,28 @@
       "url": "https://www.onetricks.gg/champions/ranking/Vex"
     },
     {
-      "champion": "Kaisa",
+      "champion": "Lucian",
       "challenger": 0,
       "grandmaster": 1,
       "master": 8,
       "total": 9,
-      "url": "https://www.onetricks.gg/champions/ranking/Kaisa"
+      "url": "https://www.onetricks.gg/champions/ranking/Lucian"
+    },
+    {
+      "champion": "Varus",
+      "challenger": 0,
+      "grandmaster": 1,
+      "master": 7,
+      "total": 8,
+      "url": "https://www.onetricks.gg/champions/ranking/Varus"
+    },
+    {
+      "champion": "Lillia",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 7,
+      "total": 7,
+      "url": "https://www.onetricks.gg/champions/ranking/Lillia"
     },
     {
       "champion": "Smolder",
@@ -1284,22 +1292,6 @@
       "url": "https://www.onetricks.gg/champions/ranking/Smolder"
     },
     {
-      "champion": "Ashe",
-      "challenger": 0,
-      "grandmaster": 0,
-      "master": 5,
-      "total": 5,
-      "url": "https://www.onetricks.gg/champions/ranking/Ashe"
-    },
-    {
-      "champion": "Lillia",
-      "challenger": 0,
-      "grandmaster": 0,
-      "master": 5,
-      "total": 5,
-      "url": "https://www.onetricks.gg/champions/ranking/Lillia"
-    },
-    {
       "champion": "Malphite",
       "challenger": 0,
       "grandmaster": 0,
@@ -1308,12 +1300,20 @@
       "url": "https://www.onetricks.gg/champions/ranking/Malphite"
     },
     {
-      "champion": "Sivir",
+      "champion": "Ashe",
       "challenger": 0,
-      "grandmaster": 1,
+      "grandmaster": 0,
       "master": 4,
-      "total": 5,
-      "url": "https://www.onetricks.gg/champions/ranking/Sivir"
+      "total": 4,
+      "url": "https://www.onetricks.gg/champions/ranking/Ashe"
+    },
+    {
+      "champion": "Braum",
+      "challenger": 0,
+      "grandmaster": 0,
+      "master": 4,
+      "total": 4,
+      "url": "https://www.onetricks.gg/champions/ranking/Braum"
     },
     {
       "champion": "Corki",
@@ -1332,12 +1332,12 @@
       "url": "https://www.onetricks.gg/champions/ranking/Renata"
     },
     {
-      "champion": "Braum",
+      "champion": "Sivir",
       "challenger": 0,
-      "grandmaster": 0,
+      "grandmaster": 1,
       "master": 3,
-      "total": 3,
-      "url": "https://www.onetricks.gg/champions/ranking/Braum"
+      "total": 4,
+      "url": "https://www.onetricks.gg/champions/ranking/Sivir"
     },
     {
       "champion": "Mel",
